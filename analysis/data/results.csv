@@ -1,0 +1,721 @@
+,respondent,task,complexity,interval,time,company,purpose,purpose_tokens,purpose_token_count,purpose_word_count,detail,desc_tokens,desc_token_count,desc_token_count_group,desc_word_count,desc_word_count_group,desc_eval_comp,desc_eval_elem,desc_eval_char,desc_eval_sum,PQ1,ATT1,PQ2,HQ1,PQ3,HQ2,HQ3,ATT2,PQ4,HQ4,PQ,HQ,ATT,familiarity
+0,3,1,0.22,2s,94.0,1.0,1.0,clothing,1,1,0.0,picture different age gender wearing clothes link clothes woman clothes child clothes,12,med,24,high,1,2,0,2,7,7,7,6,6,5,6,7,7,7,6.75,6.0,7.0,False
+1,3,2,2.0,2s,425.0,0.0,1.0,glass contact lens sunglass,4,4,0.0,picture smiling sunglass,3,low,7,low,0,1,0,1,6,6,7,6,6,6,6,7,7,7,6.5,6.25,6.5,False
+2,3,3,2.97,2s,73.0,1.0,1.0,sport gear,2,2,0.0,picture white leopard logo hillsport red hill,7,med,19,med,1,2,0,2,6,7,7,6,5,6,6,7,7,6,6.25,6.0,7.0,False
+3,3,4,5.27,2s,85.0,1.0,1.0,information weather,2,4,0.0,lot different weather forecast degree celsius place picture accompany forecast sunny cloud,12,med,22,med,1,2,0,2,7,7,7,6,7,5,6,7,7,6,7.0,5.75,7.0,False
+4,3,5,7.5,2s,413.0,1.0,1.0,supply,1,2,1.0,different picture item pet,4,low,8,low,0,1,0,1,5,5,6,4,5,4,5,6,6,4,5.5,4.25,5.5,False
+5,3,6,8.0,2s,719.0,1.0,0.0,information energy source,3,4,0.0,text different link battery source mention,6,med,18,med,1,2,0,2,3,3,5,4,4,5,4,5,5,4,4.25,4.25,4.0,False
+6,4,1,0.22,2s,64.0,1.0,1.0,clothes,1,1,0.0,picture kid,2,low,4,low,0,1,0,1,4,4,4,5,5,5,3,5,5,3,4.5,4.0,4.5,False
+7,4,2,2.0,2s,91.0,1.0,0.0,,0,3,0.0,picture sunglass white color,4,low,9,low,1,1,1,2,6,3,5,3,5,3,4,3,4,3,5.0,3.25,3.0,False
+8,4,3,2.97,2s,84.0,1.0,0.0,,0,3,0.0,picture mountain landscape big animal left,6,med,14,med,1,2,0,2,5,4,4,4,5,5,4,5,5,4,4.75,4.25,4.5,False
+9,4,4,5.27,2s,81.0,1.0,1.0,meteo forecast,2,2,0.0,big map middle small weather forecast,6,med,12,med,1,2,0,2,4,4,4,4,5,3,3,5,5,3,4.5,3.25,4.5,False
+10,4,5,7.5,2s,72.0,1.0,0.0,,0,3,0.0,big banner top picture bottom,5,low,11,low,1,2,0,2,5,2,4,2,4,2,3,2,3,4,4.0,2.75,2.0,False
+11,4,6,8.0,2s,116.0,0.0,0.0,,0,3,0.0,white picture middle link left side looked blog,8,med,17,med,1,2,1,3,3,3,3,4,5,3,2,3,4,2,3.75,2.75,3.0,False
+12,5,1,0.22,2s,120.0,1.0,1.0,clothes child,2,3,0.0,small logo upper left blue background white writing picture child wearing sustainable clothing,13,high,17,med,1,2,0,2,7,6,6,4,6,5,6,6,6,6,6.25,5.25,6.0,False
+13,5,2,2.0,2s,140.0,1.0,0.0,holiday,1,1,1.0,website selling holiday vacation picture beach,6,med,13,med,0,1,0,1,6,7,7,7,7,7,7,7,6,6,6.5,6.75,7.0,False
+14,5,3,2.97,2s,93.0,1.0,1.0,clothing hill walker,3,6,0.0,leopard picture word hillsport top,5,low,14,med,0,1,0,1,7,6,6,6,6,7,6,7,6,6,6.25,6.25,6.5,False
+15,5,4,5.27,2s,125.0,1.0,1.0,website weather containing large graphic middle text small picture side,10,19,0.0,large weather map middle writing side map blue logo,9,med,21,med,1,2,1,3,7,6,7,6,7,6,6,7,7,6,7.0,6.0,6.5,False
+16,5,5,7.5,2s,135.0,1.0,0.0,food oriented,2,6,0.0,red yellow website red circle containing text,7,med,11,low,0,1,1,2,2,4,6,2,6,2,4,4,2,5,4.0,3.25,4.0,False
+17,5,6,8.0,2s,149.0,1.0,1.0,information technology,2,3,0.0,text side website picture middle building woman surprise,8,med,26,high,1,3,0,3,7,4,7,5,6,5,6,6,7,5,6.75,5.25,5.0,False
+18,7,1,0.22,2s,182.0,1.0,1.0,clothing woman chrildren,3,6,1.0,page sustainable clothing company make clothing family colour neutral,9,med,21,med,1,0,1,1,7,4,6,4,5,4,3,4,7,2,6.25,3.25,4.0,False
+19,7,2,2.0,2s,293.0,1.0,1.0,image title make company sell holiday sell eyewear sunglass contact lens,11,22,1.0,page simple image showed different category product sell image heading glance make company sell holiday page product sell knew sold eyewear,21,high,58,high,2,3,1,4,6,4,5,4,2,5,3,4,3,3,4.0,3.75,4.0,False
+20,7,3,2.97,2s,216.0,1.0,1.0,sportswear,1,1,0.0,logo included hill colour red large image image big writing collection side underneath column image assume showed product company sell,20,high,49,high,3,4,0,4,6,5,5,5,4,4,3,4,6,5,5.25,4.25,4.5,False
+21,7,4,5.27,2s,232.0,1.0,1.0,weather update,2,2,1.0,image map showed weather area longer weather forecast orange box side umbrella text image headline article,16,high,54,high,3,4,0,4,5,4,6,4,6,3,2,4,6,1,5.75,2.5,4.0,False
+22,7,5,7.5,2s,137.0,1.0,1.0,product animal,2,3,0.0,page company called megazoo sell product animal website bright primary colour,11,med,18,med,0,0,1,1,6,5,5,4,5,3,4,5,6,5,5.5,4.0,5.0,False
+23,7,6,8.0,2s,151.0,1.0,1.0,information tech industry,3,5,0.0,blog news site tech industry made lot link article blog post,11,med,20,med,0,1,0,1,3,3,5,5,6,4,3,4,5,3,4.75,3.75,3.5,False
+24,8,1,0.22,2s,73.0,1.0,1.0,clothing,1,1,0.0,different picture bottom woman men child clothing logo small top left hand corner,13,high,31,high,1,2,0,2,6,6,6,6,5,6,2,6,6,5,5.75,4.75,6.0,False
+25,8,2,2.0,2s,80.0,1.0,1.0,eyewear,1,1,0.0,different pillar sunglass pillar picture yellow blue theme,8,med,24,high,1,2,1,3,6,6,6,4,5,5,3,5,6,3,5.75,3.75,5.5,False
+26,8,3,2.97,2s,68.0,1.0,1.0,backpack outdoor gear,3,4,0.0,cheetah leopard picture hiker lot dominant,6,med,23,med,1,2,0,2,5,4,4,5,4,4,3,4,5,5,4.5,4.25,4.0,False
+27,8,4,5.27,2s,117.0,1.0,1.0,weather forecast,2,2,0.0,weather forecast temperature,3,low,10,low,0,1,0,1,3,5,6,3,5,4,3,4,5,3,4.75,3.25,4.5,False
+28,8,5,7.5,2s,73.0,1.0,0.5,animal,1,1,0.0,tab different animal group yellow circle mouse rat,8,med,28,high,1,3,0,3,6,5,5,3,6,3,3,5,6,4,5.75,3.25,5.0,False
+29,8,6,8.0,2s,65.0,1.0,0.0,idea,1,2,0.0,picture lot writing simple understand,5,low,18,med,1,1,1,2,1,3,3,4,2,4,3,3,2,3,2.0,3.5,3.0,False
+30,9,1,0.22,2s,98.0,1.0,1.0,clothing,1,1,0.0,clean image child muted tone cosy,6,med,8,low,1,1,2,3,5,5,5,5,5,5,4,5,5,4,5.0,4.5,5.0,True
+31,9,2,2.0,2s,101.0,1.0,1.0,contact lens,2,2,1.0,sparse looked travel website sold eye image,7,med,17,med,0,1,1,2,4,4,4,3,5,5,2,4,4,2,4.25,3.0,4.0,False
+32,9,3,2.97,2s,93.0,1.0,1.0,outdoor clothing,2,2,1.0,cute leopard lot image lot box clicking,7,med,13,med,1,2,0,2,4,4,5,5,5,5,4,4,5,5,4.75,4.75,4.0,False
+33,9,4,5.27,2s,97.0,1.0,1.0,weather forecast,2,2,0.0,lot lot text blue,4,low,7,low,0,0,2,2,4,3,4,3,6,2,2,4,4,3,4.5,2.5,3.5,True
+34,9,5,7.5,2s,99.0,1.0,1.0,animal product,2,2,0.0,picture animal animal food lot green yellow,7,med,11,low,1,1,1,2,2,2,3,2,4,2,4,4,2,4,2.75,3.0,3.0,False
+35,9,6,8.0,2s,164.0,1.0,0.0,reuseable energy,2,2,0.0,lot text looked news article confused person muted colour,9,med,13,med,1,1,2,3,2,2,4,4,3,4,4,4,3,4,3.0,4.0,3.0,False
+36,10,1,0.22,2s,123.0,0.0,1.0,cloth kid,2,3,0.0,child showing picture adv clothing online selling website clothing kid,10,med,15,med,0,1,0,1,6,6,5,4,5,3,4,4,5,5,5.25,4.0,5.0,False
+37,10,2,2.0,2s,246.0,0.5,0.0,ready,1,2,1.0,picture family laying beach,4,low,8,low,0,1,0,1,4,4,5,5,5,4,4,4,4,4,4.5,4.25,4.0,False
+38,10,3,2.97,2s,152.0,1.0,0.0,,0,2,0.0,hilspot website picture tiger center website looked tiger site tour,10,med,43,high,2,1,0,1,4,6,5,5,4,4,4,5,4,4,4.25,4.25,5.5,False
+39,10,4,5.27,2s,168.0,1.0,1.0,weather forecast,2,2,0.0,website color related weather day believe showing map forecast different are,11,med,26,high,1,2,0,2,4,4,5,5,5,4,4,6,4,5,4.5,4.5,5.0,False
+40,10,5,7.5,2s,97.0,1.0,0.0,food item,2,2,0.0,food item shown bottom website package,6,med,14,med,0,1,0,1,4,5,5,4,5,4,4,5,5,5,4.75,4.25,5.0,False
+41,10,6,8.0,2s,184.0,1.0,0.5,news provider articals,3,4,0.0,website small window related different topic woman holding makeup set believe site information news,14,high,30,high,1,2,0,2,4,4,4,4,4,4,4,4,3,4,3.75,4.0,4.0,False
+42,11,1,0.22,2s,131.0,1.0,1.0,web page sell child clothes,5,6,0.0,child web page brand present providing sustainable clothes,8,med,19,med,0,1,0,1,6,5,5,5,2,4,3,5,5,4,4.5,4.0,5.0,False
+43,11,2,2.0,2s,125.0,1.0,1.0,sell vacation vaccination sunglass,4,7,1.0,family photo section photo choose,5,low,17,med,0,2,0,2,5,4,5,3,3,5,3,4,3,4,4.0,3.75,4.0,False
+44,11,3,2.97,2s,157.0,1.0,1.0,web page sell sport product mountain sport,7,9,0.0,brand left top big photo mountain left side symbol panther tiger,11,med,29,high,1,3,0,3,6,5,5,4,6,5,3,5,5,4,5.5,4.0,5.0,False
+45,11,4,5.27,2s,197.0,1.0,1.0,information weather forecast,3,6,0.0,web page designed simply information weather section choose day place,10,med,29,high,1,1,1,2,6,6,6,5,7,5,4,6,6,5,6.25,4.75,6.0,False
+46,11,5,7.5,2s,177.0,1.0,0.0,sell food yellow background part web page,7,23,0.0,intensity yellow color brand clear recognisable,6,med,20,med,0,0,1,1,2,1,2,3,1,2,2,2,1,1,1.5,2.0,1.5,False
+47,11,6,8.0,2s,180.0,1.0,1.0,information latest tecnological development news,5,11,0.0,remember link news article technology bold letter heading short summary paragraph news web page,14,high,33,high,1,2,0,2,3,4,3,3,5,2,3,4,2,4,3.25,3.0,4.0,False
+48,12,1,0.22,2s,130.0,0.0,1.0,sustainable fashion,2,2,1.0,individual wearing sustainable fashion different colour design worn,8,med,10,low,0,1,0,1,7,7,7,6,5,5,5,7,7,7,6.5,5.75,7.0,False
+49,12,2,2.0,2s,346.0,1.0,1.0,sell eye wear sunglass contact lens,6,8,1.0,web page advertising eye wear family vacation made image relation eye,11,med,20,med,1,2,0,2,5,5,5,4,6,3,3,5,5,4,5.25,3.5,5.0,False
+50,12,3,2.97,2s,99.0,1.0,0.0,,0,2,1.0,large white tiger image underneath offer clothing,7,med,9,low,1,1,0,1,2,2,2,2,4,3,4,2,2,1,2.5,2.5,2.0,False
+51,12,4,5.27,2s,129.0,1.0,1.0,show weather forecast,3,4,1.0,nice layout weather forecast thursday cloud,6,med,11,low,1,1,1,2,7,5,7,4,7,4,4,5,7,5,7.0,4.25,5.0,False
+52,12,5,7.5,2s,505.0,1.0,1.0,product animal furniture sand,4,7,0.0,simple website pet require furniture,5,low,12,med,0,0,0,0,4,2,4,2,6,1,3,4,4,3,4.5,2.25,3.0,False
+53,12,6,8.0,2s,135.0,1.0,1.0,information technology,2,3,0.0,general information technology latest news read online,7,med,13,med,0,0,0,0,6,4,4,4,6,4,4,4,4,4,5.0,4.0,4.0,False
+54,13,1,0.22,2s,99.0,1.0,1.0,sell clothes kid,3,6,0.0,selling clothes kid,3,low,8,low,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+55,13,2,2.0,2s,100.0,1.0,0.0,holiday service,2,4,1.0,book tour package website,4,low,9,low,0,0,0,0,6,6,6,6,6,6,6,7,6,6,6.0,6.0,6.5,False
+56,13,3,2.97,2s,103.0,1.0,0.5,trekking,1,3,0.5,providing trekking service,3,low,6,low,0,0,0,0,5,6,6,6,5,5,5,5,5,5,5.25,5.25,5.5,False
+57,13,4,5.27,2s,80.0,1.0,1.0,show weather forecast,3,4,0.0,check weather forecast website,4,low,8,low,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6.0,6.0,6.0,False
+58,13,5,7.5,2s,81.0,1.0,0.0,grocery,1,5,0.0,buy grocery website,3,low,9,low,0,0,0,0,6,6,6,6,6,6,6,6,6,6,6.0,6.0,6.0,False
+59,13,6,8.0,2s,84.0,1.0,1.0,technology,1,4,0.0,technology,1,low,4,low,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+60,14,1,0.22,2s,84.0,1.0,1.0,clothes,1,1,0.0,picture stretched page logo top left signpost,7,med,16,med,1,2,0,2,6,6,6,5,5,5,5,6,6,5,5.75,5.0,6.0,False
+61,14,2,2.0,2s,95.0,0.5,1.0,glass,1,1,0.0,lot white blue signpost image,5,low,15,med,1,1,1,2,6,4,6,4,6,4,4,5,6,5,6.0,4.25,4.5,False
+62,14,3,2.97,2s,108.0,1.0,1.0,clothing footwear,2,3,0.0,image big wording signpost logo top left,7,med,19,med,1,3,0,3,4,4,5,5,6,4,4,5,5,3,5.0,4.0,4.5,False
+63,14,4,5.27,2s,80.0,1.0,1.0,weather info,2,2,0.0,big map day week underneath info hand side,8,med,18,med,1,3,0,3,2,3,5,4,5,3,3,4,5,3,4.25,3.25,3.5,False
+64,14,5,7.5,2s,111.0,1.0,1.0,supply,1,2,1.0,lot colour felt busy,4,low,10,low,0,0,2,2,3,4,5,4,4,3,4,4,3,4,3.75,3.75,4.0,False
+65,14,6,8.0,2s,112.0,1.0,0.0,,0,2,0.0,white background lot red black lot text image,8,med,18,med,1,0,2,2,4,4,6,4,5,4,3,4,6,3,5.25,3.5,4.0,False
+66,15,1,0.22,2s,90.0,1.0,1.0,clothing,1,1,0.0,male female adult small girl wearing clothes website dull colour yellow,11,med,22,med,1,1,1,2,6,6,5,5,6,5,6,7,7,7,6.0,5.75,6.5,False
+67,15,2,2.0,2s,83.0,1.0,1.0,glass sunglass contact lens,4,5,1.0,selling eye correction wear slightly bright simple design,8,med,10,low,0,0,1,1,6,6,6,5,7,5,5,7,6,5,6.25,5.0,6.5,False
+68,15,3,2.97,2s,106.0,1.0,1.0,activity equipment,2,2,0.0,snow leopard simple inviting page discount equipment,7,med,9,low,1,2,0,2,5,5,5,5,4,4,5,6,5,5,4.75,4.75,5.5,False
+69,15,4,5.27,2s,84.0,1.0,1.0,weather information,2,3,0.0,alot information weather showed temp place gave information generally weather different location,12,med,18,med,1,1,0,1,5,5,4,3,7,3,4,5,6,4,5.5,3.5,5.0,False
+70,15,5,7.5,2s,82.0,1.0,0.0,food,1,1,0.0,black yellow bold alot page,5,low,7,low,0,0,1,1,3,3,4,3,4,3,4,3,2,5,3.25,3.75,3.0,False
+71,15,6,8.0,2s,104.0,1.0,1.0,porvide tech information news,4,5,0.0,alot information small space simple design looked busy page,9,med,14,med,0,0,2,2,6,3,4,3,6,4,4,3,6,3,5.5,3.5,3.0,False
+72,16,1,0.22,2s,149.0,1.0,1.0,cloth apparel,2,2,0.0,company small requires bit figure completely missed middle part website bottom part show clothing option split category idea simply search,20,high,50,high,1,2,0,2,4,4,6,4,6,3,4,4,4,4,5.0,3.75,4.0,False
+73,16,2,2.0,2s,121.0,1.0,0.0,holiday,1,1,1.0,white background easy fancy super advanced technology implemented user fairly basic website,12,med,22,med,0,0,1,1,6,4,5,4,7,4,3,4,6,4,6.0,3.75,4.0,False
+74,16,3,2.97,2s,118.0,1.0,1.0,sporting equipment potentially mountain related,5,6,0.0,tiger middle attention probably picture hiking generally nice esthetic probably simple,11,med,24,high,1,2,1,3,6,5,5,4,5,4,4,6,6,5,5.5,4.25,5.5,False
+75,16,4,5.27,2s,130.0,1.0,1.0,appears weather checking website,4,8,0.0,big picture chosen area middle quick general information weather expected specified option available hand side,15,high,33,high,1,2,0,2,5,4,5,4,4,3,4,4,5,4,4.75,3.75,4.0,False
+76,16,5,7.5,2s,135.0,1.0,1.0,food,1,2,1.0,nice colourful picture pet pleasurable quick delivery service available clear visible information,12,med,22,med,1,2,0,2,4,6,6,5,4,5,4,5,4,5,4.5,4.75,5.5,False
+77,16,6,8.0,2s,170.0,0.0,0.0,sell,1,6,1.0,lot information potentially overwhelming amount text black white low number picture lot information provided,14,high,24,high,1,0,2,2,2,3,3,2,6,2,1,4,3,4,3.5,2.25,3.5,False
+78,19,1,0.22,2s,62.0,1.0,1.0,clothing,1,1,0.0,branded clothing,2,low,5,low,1,1,0,1,4,3,5,4,4,3,2,4,4,2,4.25,2.75,3.5,False
+79,19,2,2.0,2s,62.0,1.0,1.0,glass,1,1,0.0,glass different type glass,4,low,8,low,1,1,0,1,4,4,6,5,4,5,5,4,4,4,4.5,4.75,4.0,False
+80,19,3,2.97,2s,117.0,1.0,1.0,sporting equipment,2,2,0.0,tiger running hill looked outdoor sport website hiking,8,med,17,med,1,1,0,1,3,5,6,4,5,4,5,4,5,6,4.75,4.75,4.5,False
+81,19,4,5.27,2s,83.0,1.0,1.0,weather information,2,2,0.0,show forecast,2,low,3,low,0,1,0,1,6,2,6,4,4,2,2,4,3,1,4.75,2.25,3.0,False
+82,19,5,7.5,2s,70.0,1.0,0.0,food,1,1,0.0,supermarket website,2,low,2,low,0,0,0,0,4,1,3,2,4,2,2,4,4,2,3.75,2.0,2.5,False
+83,19,6,8.0,2s,82.0,1.0,1.0,tech blog,2,2,0.0,tech article,2,low,2,low,0,0,0,0,3,3,5,4,5,4,3,4,5,4,4.5,3.75,3.5,False
+84,20,1,0.22,2s,325.0,1.0,1.0,sell clothes,2,5,0.0,advertisment clothing,2,low,5,low,0,1,0,1,4,3,5,4,4,2,4,4,5,3,4.5,3.25,3.5,False
+85,20,2,2.0,2s,122.0,1.0,0.0,holiday,1,1,0.0,woman child laying front sunbathing,5,low,13,med,0,1,0,1,6,5,6,4,6,5,6,5,6,5,6.0,5.0,5.0,False
+86,20,3,2.97,2s,106.0,1.0,1.0,clothes,1,1,0.0,leopard box advertising thing selling,5,low,11,low,1,2,0,2,6,5,6,6,5,5,5,6,6,5,5.75,5.25,5.5,False
+87,20,4,5.27,2s,99.0,1.0,1.0,weather forcasts,2,4,0.0,page weather forcast showing different day,6,med,9,low,0,1,0,1,7,6,7,5,7,5,5,7,7,5,7.0,5.0,6.5,False
+88,20,5,7.5,2s,114.0,0.5,0.0,,0,2,0.0,item rock,2,low,7,low,0,0,0,0,3,3,3,4,3,4,4,3,2,3,2.75,3.75,3.0,False
+89,20,6,8.0,2s,119.0,1.0,0.0,,0,2,0.0,white building,2,low,4,low,0,1,0,1,3,3,5,3,4,3,5,5,4,4,4.0,3.75,4.0,False
+90,21,1,0.22,2s,209.0,1.0,1.0,child clothing age range,4,7,1.0,page small company logo top left picture big biggest taking primary focus colour striking,14,high,28,high,1,2,1,3,5,4,5,5,5,4,4,5,5,4,5.0,4.25,4.5,False
+91,21,2,2.0,2s,149.0,1.0,1.0,sunglass spectacle,2,3,0.0,picture page central person smiling whilst wearing sunglass light blue white primary colour bit text top screen,17,high,34,high,2,2,1,3,5,4,5,5,5,4,4,5,5,5,5.0,4.5,4.5,False
+92,21,3,2.97,2s,169.0,1.0,1.0,outdoor specialist providing footwear clothing accessory backpack,7,14,0.0,big snow leopard big focus black orange primary colour image bottom tab click department footwear backpack,16,high,33,high,1,2,1,3,5,6,6,6,5,5,6,6,5,6,5.25,5.75,6.0,False
+93,21,4,5.27,2s,172.0,1.0,1.0,weather forcast region country,4,11,0.0,page providing weather information entire region country big image middle left screen displayed region weather symbol hand side text time read,21,high,43,high,2,3,0,3,4,4,5,4,4,5,4,5,5,5,4.5,4.5,4.5,False
+94,21,5,7.5,2s,159.0,1.0,1.0,food,1,8,0.0,yellow stand colour item pictured bottom screen imagine product website,10,med,27,high,1,1,1,2,4,3,5,3,5,3,3,4,4,4,4.5,3.25,3.5,False
+95,21,6,8.0,2s,142.0,1.0,0.5,news bulletin world,3,7,1.0,page full text wer image black red colour prominant heading click,11,med,23,med,1,1,2,3,2,2,4,4,3,4,3,3,3,3,3.0,3.5,2.5,False
+96,22,1,0.22,2s,86.0,1.0,1.0,clothing,1,1,1.0,large picture girl top screen woman small boy lower screen statement item clothing woman girl yellow,16,high,28,high,1,2,0,2,5,5,4,5,5,4,4,5,5,5,4.75,4.5,5.0,False
+97,22,2,2.0,2s,75.0,1.0,1.0,glass prescription,2,3,0.0,family wearing sunglass beach box type glass offer contact ect,10,med,16,med,1,2,0,2,5,5,5,5,4,5,5,5,5,5,4.75,5.0,5.0,False
+98,22,3,2.97,2s,132.0,1.0,1.0,sport equipment clothing specifically hill sport cross country running,9,11,0.0,large snow panther woman running hill type product running logo top left corner red blue,15,high,25,high,1,3,0,3,4,4,5,5,3,5,4,5,6,5,4.5,4.75,4.5,False
+99,22,4,5.27,2s,55.0,1.0,1.0,weather report,2,3,1.0,large weather map red zone map,6,med,7,low,0,1,0,1,6,5,5,4,5,4,4,5,5,5,5.25,4.25,5.0,False
+100,22,5,7.5,2s,78.0,1.0,1.0,product accessory,2,4,0.0,large picture logo delivery min example item bottom screen large cardboard box,12,med,17,med,2,4,0,4,5,3,5,3,4,4,4,5,5,4,4.75,3.75,4.0,False
+101,22,6,8.0,2s,91.0,1.0,1.0,information article technology,3,6,0.0,lot writing picture coin corner stock,6,med,11,low,1,1,1,2,3,3,5,4,4,3,3,4,3,3,3.75,3.25,3.5,False
+102,23,1,0.22,2s,99.0,1.0,1.0,clothes child,2,3,0.0,girl image huge page looked clean grey white,8,med,19,med,1,1,1,2,6,6,6,6,6,6,4,6,6,5,6.0,5.25,6.0,False
+103,23,2,2.0,2s,91.0,1.0,1.0,sell contact lens lens,4,6,0.5,summer add picture family,4,low,10,low,0,1,0,1,5,4,5,3,5,5,4,5,4,5,4.75,4.25,4.5,False
+104,23,3,2.97,2s,91.0,1.0,0.5,extreme winter sport service,4,4,0.0,picture white feline red black logo mountain,7,med,16,med,1,2,0,2,3,7,5,6,3,6,6,6,3,5,3.5,5.75,6.5,False
+105,23,4,5.27,2s,84.0,1.0,1.0,data weather,2,4,0.0,showed weather period time icon weather data,7,med,15,med,1,1,0,1,6,4,6,4,6,2,3,5,5,4,5.75,3.25,4.5,False
+106,23,5,7.5,2s,75.0,0.0,0.0,food,1,1,0.0,picking food red yellow colour,5,low,10,low,0,1,1,2,2,4,3,2,5,5,4,3,3,3,3.25,3.5,3.5,False
+107,23,6,8.0,2s,75.0,1.0,0.0,idea,1,2,0.0,thing focus picture house,4,low,19,med,0,0,0,0,2,4,3,4,3,5,4,3,3,4,2.75,4.25,3.5,False
+108,24,1,0.22,2s,81.0,1.0,1.0,selling clothing,2,2,0.0,neautral tone colour child striped top,6,med,12,med,1,1,1,2,5,6,5,6,5,6,5,5,5,5,5.0,5.5,5.5,False
+109,24,2,2.0,2s,70.0,0.0,0.0,selling holiday,2,2,1.0,family holiday picture eye,4,low,11,low,1,2,0,2,5,4,4,4,5,3,3,3,4,3,4.5,3.25,3.5,False
+110,24,3,2.97,2s,88.0,1.0,1.0,outdoor clothing,2,2,0.0,snow leopard large picture mountain running,6,med,13,med,0,2,0,2,4,4,5,5,5,5,4,5,5,4,4.75,4.5,4.5,False
+111,24,4,5.27,2s,103.0,1.0,1.0,weather forecast,2,2,0.0,weather chart word weathery picture cloud sun blue square,9,med,19,med,1,3,0,3,4,4,6,4,5,4,4,4,5,4,5.0,4.0,4.0,False
+112,24,5,7.5,2s,103.0,1.0,1.0,food,1,2,0.0,looked discount website remember big red circle price looked cheap,10,med,22,med,1,1,1,2,6,1,5,1,6,1,1,1,5,1,5.5,1.0,1.0,False
+113,24,6,8.0,2s,110.0,1.0,0.5,technology,1,1,0.0,lot information word page interesting,5,low,16,med,0,0,1,1,2,1,2,2,3,4,1,1,3,1,2.5,2.0,1.0,False
+114,25,1,0.22,2s,139.0,1.0,1.0,sustainable fashion,2,2,0.0,lot neutral colour beige pretty simple design big picture middle showing wearing clothes big sticker sustainable fashion blue logo wording site,21,high,36,high,3,3,3,6,7,7,7,6,7,6,4,7,7,6,7.0,5.5,7.0,False
+115,25,2,2.0,2s,119.0,1.0,0.0,vacation colthing,2,3,1.0,pretty simple big picture family ready vacation smaller picture underneath sunglass colour picture navigation bar top,16,high,36,high,3,4,1,5,7,4,7,4,7,4,3,6,7,4,7.0,3.75,5.0,False
+116,25,3,2.97,2s,91.0,1.0,1.0,hiking gear,2,2,0.0,big picture snow leopard picture walking mountain picture thing layered eachother,11,med,24,high,1,3,0,3,4,5,5,5,6,6,5,5,3,5,4.5,5.25,5.0,False
+117,25,4,5.27,2s,122.0,1.0,1.0,show weather forecast,3,4,0.0,big map showing weather forecast small banner side news article ice berg lot white blue colour wise lot text,19,high,33,high,2,2,2,4,5,3,6,4,7,2,2,4,5,2,5.75,2.5,3.5,False
+118,25,5,7.5,2s,115.0,1.0,1.0,pretty food,2,5,0.0,massive yellow banner writing lot small icon different animal hamster cardboard box bright colour,14,high,25,high,2,4,1,5,2,1,2,1,2,1,1,1,2,1,2.0,1.0,1.0,False
+119,25,6,8.0,2s,109.0,1.0,1.0,tech news,2,4,0.0,banner side different article big article middle picture title yellow woman shocked lot text lot colour picture,17,high,41,high,3,4,2,6,2,2,3,3,3,3,2,3,3,2,2.75,2.5,2.5,False
+120,26,1,0.22,2s,53.0,1.0,1.0,clothing,1,1,0.0,woman wearing jumper,3,low,5,low,0,1,0,1,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+121,26,2,2.0,2s,66.0,1.0,1.0,contact lens,2,2,1.0,beach family word contact lens picture putting,7,med,22,med,1,2,0,2,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+122,26,3,2.97,2s,48.0,1.0,1.0,sport gear,2,2,0.0,white tiger,2,low,3,low,0,1,0,1,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+123,26,4,5.27,2s,50.0,1.0,1.0,tell weather,2,4,0.0,website update weather,3,low,8,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+124,26,5,7.5,2s,42.0,1.0,0.0,,0,3,0.0,,0,low,3,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+125,26,6,8.0,2s,74.0,1.0,0.0,looked sort home,3,17,0.0,,0,low,10,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+126,28,1,0.22,2s,139.0,1.0,1.0,clothing,1,1,0.0,circular logo picture modelling clothes,5,low,7,low,1,2,0,2,6,6,5,6,6,6,5,6,5,5,5.5,5.5,6.0,False
+127,28,2,2.0,2s,144.0,1.0,1.0,eye product,2,3,0.0,logo phone number top page large picture caption ready vacation blue white theme,13,high,20,med,1,2,1,3,5,5,3,5,4,5,5,5,3,4,3.75,4.75,5.0,False
+128,28,3,2.97,2s,119.0,1.0,1.0,outdoor equiptment,2,2,0.0,picture wild running hill,4,low,9,low,1,1,0,1,2,5,1,4,4,4,6,2,1,5,2.0,4.75,3.5,False
+129,28,4,5.27,2s,145.0,1.0,1.0,weather forecast,2,2,0.0,display symbol relating weather forecast,5,low,6,low,0,1,0,1,5,5,6,4,5,3,4,5,5,5,5.25,4.0,5.0,False
+130,28,5,7.5,2s,143.0,1.0,0.0,,0,2,0.5,yellow black logo,3,low,4,low,0,1,0,1,5,3,4,3,4,3,3,3,3,4,4.0,3.25,3.0,False
+131,28,6,8.0,2s,148.0,1.0,1.0,technology news story,3,3,0.0,block text heading left hand side newspaper style,8,med,12,med,1,1,1,2,3,6,7,5,6,6,4,6,6,5,5.5,5.0,6.0,False
+132,29,1,0.22,2s,118.0,1.0,1.0,sustainable fashion woman child,4,7,0.0,clean limited information picture colour made easy scan quickly thing page general woman child section linked biggest bottom part page logo top left corner top page menu sort,28,high,76,high,3,3,1,4,7,6,5,6,6,6,5,6,7,5,6.25,5.5,6.0,False
+133,29,2,2.0,2s,123.0,0.0,1.0,eyewear including contact,3,3,1.0,body page top including logo body featured large picture child child adult hugging wearing sunglass instinct travel website looked category big picture included glass contact confused time,27,high,86,high,2,3,0,3,3,5,4,5,3,5,4,3,2,4,3.0,4.5,4.0,False
+134,29,3,2.97,2s,114.0,0.5,1.0,outdoor clothing equipment,3,4,0.0,page big tiger middle menu top bottom page option direct category clothing page primarily blue red featured picture mountain indicating outdoorsiness brand product,23,high,59,high,3,4,1,5,6,5,6,5,6,5,3,6,6,5,6.0,4.5,5.5,False
+135,29,4,5.27,2s,110.0,1.0,1.0,weather information,2,4,1.0,page logo top left menu top page left page map weather depicted standard weather symbol sun link subpages temperature prediction rest week,22,high,60,high,3,4,0,4,6,5,7,4,6,4,2,6,6,4,6.25,3.5,5.5,False
+136,29,5,7.5,2s,119.0,1.0,1.0,animal food animal related product,5,9,0.0,colourful picture different animal including rooster logo top left looked bit cheap clear viewing sold animal product animal food menu top offer spread page,24,high,59,high,2,4,1,5,3,3,5,3,5,2,1,5,5,5,4.5,2.75,4.0,False
+137,29,6,8.0,2s,226.0,1.0,1.0,tech news,2,2,0.0,looked news website article headline accompanying picture news article article related technology picture article looked clickbait seemingly related crypto full structure page,22,high,60,high,3,3,1,4,5,3,3,2,3,2,2,2,3,3,3.5,2.25,2.5,False
+138,30,1,0.22,2s,65.0,1.0,1.0,sustainable clothing,2,2,0.0,sell sustainable clothing age gender,5,low,8,low,0,1,0,1,6,7,7,7,6,7,6,7,7,6,6.5,6.5,7.0,False
+139,30,2,2.0,2s,66.0,1.0,1.0,eye wear,2,2,0.0,sell eye wear different occasion,5,low,6,low,0,0,0,0,6,6,6,6,6,6,4,6,7,6,6.25,5.5,6.0,False
+140,30,3,2.97,2s,93.0,1.0,1.0,hiking equipment,2,2,0.0,big leopard front page,4,low,5,low,0,1,0,1,3,5,2,3,2,3,5,3,2,3,2.25,3.5,4.0,False
+141,30,4,5.27,2s,95.0,1.0,1.0,show weather,2,3,1.0,cheap information,2,low,6,low,0,0,0,0,4,2,5,2,7,1,2,5,5,2,5.25,1.75,3.5,False
+142,30,5,7.5,2s,130.0,1.0,1.0,stuff pet,2,3,0.0,cheap vibe shop big discount sale,6,med,15,med,1,0,1,1,5,3,3,1,4,3,3,4,3,3,3.75,2.5,3.5,False
+143,30,6,8.0,2s,67.0,1.0,1.0,show article current tech news,5,6,0.5,clearn layout abit crowded,4,low,8,low,0,0,1,1,2,5,5,5,5,5,5,6,4,5,4.0,5.0,5.5,False
+144,31,1,0.22,2s,148.0,1.0,1.0,clothing,1,1,0.0,simple page male female younger child logo top left corner whistle easiest read colour blue yellow yellow dominent bottom looked catagories click,22,high,53,high,3,3,2,5,6,6,6,5,5,5,6,6,6,6,5.75,5.5,6.0,False
+145,31,2,2.0,2s,153.0,1.0,1.0,glass,1,1,1.0,holiday top left picture looked sellign sunglass light website large box looked clicked logo top left page,17,high,40,high,2,3,1,4,6,6,6,6,5,6,5,6,6,6,5.75,5.75,6.0,False
+146,31,3,2.97,2s,137.0,1.0,1.0,outdoor clothing,2,2,0.0,hillspot top left corner large leopard cheetah dominent picture box bottom clothing footwear option click,15,high,28,high,2,4,0,4,5,6,5,5,5,5,4,5,5,5,5.0,4.75,5.5,False
+147,31,4,5.27,2s,119.0,1.0,1.0,weather forecasting,2,3,0.0,blue dominent colour large map local weather hand side looked weekly forecast,12,med,25,high,1,1,1,2,3,5,6,5,5,6,5,5,5,4,4.75,5.0,5.0,False
+148,31,5,7.5,2s,124.0,1.0,0.0,food,1,1,0.5,red circle lot yellow item row,6,med,14,med,1,2,1,3,5,3,5,2,4,3,3,3,4,3,4.5,2.75,3.0,False
+149,31,6,8.0,2s,158.0,1.0,0.0,unknown lot writing page looked chaotic,6,9,0.0,page lot small writing page large picture top sort article underneath chaotic layout easy view,15,high,37,high,1,2,1,3,1,1,1,2,2,4,2,1,1,1,1.25,2.25,1.0,False
+150,32,1,0.22,2s,49.0,1.0,1.0,sustainable fashion,2,2,0.0,image item website,3,low,10,low,0,1,0,1,5,3,4,6,3,4,5,5,5,4,4.25,4.75,4.0,False
+151,32,2,2.0,2s,64.0,1.0,1.0,sunglass contact lens holiday,4,5,0.0,number image advertising sun glass contact lens,7,med,10,low,1,1,0,1,5,3,5,4,6,2,5,4,3,5,4.75,4.0,3.5,False
+152,32,3,2.97,2s,67.0,1.0,1.0,sporting gear,2,2,0.0,lot separate image text big cheetah picture mountain sport,9,med,15,med,1,2,1,3,6,5,4,5,5,4,4,5,6,5,5.25,4.5,5.0,False
+153,32,4,5.27,2s,74.0,1.0,1.0,weather forecast,2,2,0.0,weather forecast website central european forecast varius temperature,8,med,11,low,1,1,0,1,5,3,5,4,7,4,3,5,6,4,5.75,3.75,4.0,False
+154,32,5,7.5,2s,56.0,1.0,1.0,food equipment,2,3,0.0,number item,2,low,6,low,0,0,0,0,5,3,5,4,5,3,4,6,5,4,5.0,3.75,4.5,False
+155,32,6,8.0,2s,57.0,1.0,0.5,technology review,2,2,0.0,tech review website lot tech review article,7,med,9,low,0,1,0,1,3,4,3,5,5,4,5,6,3,5,3.5,4.75,5.0,False
+156,33,1,0.22,2s,132.0,1.0,1.0,clothing child adult,3,5,1.0,large image child shirt top category bottom picture showing men woman kid clothing,13,high,25,high,1,2,0,2,7,7,6,7,7,7,5,7,7,6,6.75,6.25,7.0,False
+157,33,2,2.0,2s,114.0,1.0,1.0,eyewear,1,1,1.0,family beach sun woman running couple sunglass,7,med,23,med,1,1,0,1,6,6,5,5,4,7,5,5,5,6,5.0,5.75,5.5,False
+158,33,3,2.97,2s,118.0,1.0,1.0,outdoor adventure clothing apparel,4,5,0.0,large picture wild hiker different category bottom,7,med,14,med,1,2,0,2,5,5,7,4,5,7,7,6,6,6,5.75,6.0,5.5,False
+159,33,4,5.27,2s,94.0,1.0,1.0,weather information,2,2,0.0,map forecast information current day week breakdown information side screen,10,med,22,med,2,3,1,4,7,4,7,3,7,4,4,4,7,4,7.0,3.75,4.0,False
+160,33,5,7.5,2s,143.0,1.0,0.0,decorative garden ornament,3,3,1.0,image product different category top page big bright coloured text left side,12,med,21,med,1,2,0,2,6,2,6,1,3,2,2,3,4,4,4.75,2.25,2.5,False
+161,33,6,8.0,2s,150.0,1.0,1.0,news website technology related story,5,6,1.0,wordy page lot article bright orange picture body website list article screen,12,med,25,high,2,2,2,4,2,2,6,3,7,5,1,3,4,1,4.75,2.5,2.5,False
+162,34,1,0.22,2s,96.0,1.0,1.0,sell clothing,2,2,0.0,clothing range age image adult child,6,med,14,med,1,1,0,1,5,5,5,6,4,5,6,6,5,5,4.75,5.5,5.5,False
+163,34,2,2.0,2s,72.0,1.0,1.0,sell sunglass,2,2,1.0,shop sunglass advertised range vacation,5,low,8,low,0,0,0,0,4,5,5,4,4,4,4,5,5,4,4.5,4.0,5.0,False
+164,34,3,2.97,2s,89.0,1.0,1.0,sell sport clothing,3,3,0.0,illustration jaguar type animal sell sport gear,7,med,9,low,0,1,0,1,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+165,34,4,5.27,2s,58.0,1.0,1.0,weather news,2,2,0.0,forecast weather,2,low,3,low,0,1,0,1,4,3,4,4,4,3,3,4,4,4,4.0,3.5,3.5,False
+166,34,5,7.5,2s,68.0,1.0,1.0,animal food,2,2,1.0,yellow theme shope animal product,5,low,6,low,0,0,1,1,5,5,5,5,4,4,5,5,5,4,4.75,4.5,5.0,False
+167,34,6,8.0,2s,78.0,1.0,1.0,tech news,2,2,0.0,news website,2,low,2,low,0,0,0,0,4,4,5,5,4,4,4,5,5,4,4.5,4.25,4.5,False
+168,35,1,0.22,2s,76.0,1.0,1.0,sustainable fashion,2,2,0.0,clothing shop promoting sustainable fashion woman child,7,med,9,low,0,1,0,1,6,5,5,5,6,6,4,6,6,4,5.75,4.75,5.5,False
+169,35,2,2.0,2s,106.0,1.0,1.0,eyeware glass contact lens,4,4,1.0,page made different graphic central image smaller image glass sunglass contact lens,12,med,18,med,1,2,0,2,6,6,6,5,4,4,4,5,6,4,5.5,4.25,5.5,False
+170,35,3,2.97,2s,143.0,1.0,1.0,outdoor sporting good,3,3,0.0,website outdoor sport good large graphic cheetah leopard smaller box different graphic representing different outdoor activity,16,high,23,med,1,2,0,2,5,5,5,6,4,5,4,5,5,4,4.75,4.75,5.0,False
+171,35,4,5.27,2s,105.0,0.0,1.0,weather forecast,2,2,1.0,looked weather forecast web page large graphic centre map showed rain,11,med,16,med,1,1,0,1,4,4,5,4,6,4,3,4,5,4,5.0,3.75,4.0,False
+172,35,5,7.5,2s,74.0,1.0,0.0,pas,1,1,0.0,unable describe clear offered,4,low,11,low,0,0,0,0,3,3,2,2,1,1,2,1,1,3,1.75,2.0,2.0,False
+173,35,6,8.0,2s,86.0,1.0,1.0,information technology,2,3,0.0,text side graphic middle,4,low,9,low,1,2,0,2,5,4,5,4,5,4,3,4,4,3,4.75,3.5,4.0,False
+174,36,1,0.22,2s,200.0,1.0,1.0,night clothes,2,2,0.0,picture woman girl child wearing striped night clothes,8,med,19,med,1,1,0,1,6,5,6,5,6,5,1,5,6,4,6.0,3.75,5.0,False
+175,36,2,2.0,2s,190.0,0.0,1.0,glass contact lens,3,4,0.0,large picture showing text ready holiday picture contact lens glass sunglass,11,med,22,med,2,2,0,2,5,4,6,4,6,3,1,5,6,3,5.75,2.75,4.5,False
+176,36,3,2.97,2s,196.0,0.0,1.0,outdoor clothes backpack boot,4,5,0.0,picture leopard smaller picture outdoor clothes boot stuff shown mountain walking setting,12,med,20,med,1,2,0,2,5,5,6,5,6,5,2,5,6,3,5.75,3.75,5.0,False
+177,36,4,5.27,2s,135.0,1.0,1.0,weather forecast,2,2,0.0,map blue weather symbol showing weather day,7,med,14,med,0,1,0,1,6,5,7,6,7,6,4,6,7,5,6.75,5.25,5.5,False
+178,36,5,7.5,2s,235.0,1.0,0.0,cheap garish tat,3,3,0.0,large number garish coloured badly photographed cheap product sort stuff street trader sell haloween,14,high,23,med,1,1,0,1,3,1,2,1,7,1,1,1,5,1,4.25,1.0,1.0,False
+179,36,6,8.0,2s,153.0,1.0,1.0,information gadget technology,3,5,0.0,lot picture variety story short summary story,7,med,18,med,1,1,0,1,3,3,5,3,6,3,2,4,5,2,4.75,2.5,3.5,False
+180,37,1,0.22,2s,146.0,0.0,1.0,clothes womrns top,3,4,0.0,number model wearing bright top looked approachable,7,med,10,low,1,1,0,1,4,4,7,3,6,4,4,6,4,2,5.25,3.25,5.0,False
+181,37,2,2.0,2s,102.0,0.0,1.0,sunglass,1,1,1.0,showe parent child swimwear holiday clothes wearing sunglass,8,med,11,low,0,1,0,1,4,6,6,6,6,6,4,6,6,6,5.5,5.5,6.0,False
+182,37,3,2.97,2s,139.0,0.5,1.0,clothing expedition great outdoors,4,7,1.0,large grey white wild cheetah picture shoe backpack clothing,9,med,18,med,1,2,0,2,4,7,6,7,4,6,6,7,6,5,5.0,6.0,7.0,False
+183,37,4,5.27,2s,109.0,1.0,1.0,image weather,2,3,0.0,chart weather,2,low,5,low,0,1,0,1,3,7,7,5,4,5,1,6,4,5,4.5,4.0,6.5,False
+184,37,5,7.5,2s,125.0,0.0,0.0,food,1,1,0.0,image away food carton appeared recycleable,6,med,17,med,0,1,0,1,3,3,4,3,4,2,2,4,3,2,3.5,2.25,3.5,False
+185,37,6,8.0,2s,118.0,0.0,0.0,storage,1,1,0.0,woman surprised upset large white building,6,med,9,low,0,1,0,1,4,3,4,5,2,4,4,4,2,4,3.0,4.25,3.5,False
+186,38,1,0.22,2s,220.0,1.0,1.0,sustainable fashion child adult,4,6,1.0,web page light colour airy feel showed picture girl wearing pale yellow shirt hedgehog looked adult wearing similar shirt pastel colour,21,high,48,high,3,2,1,3,6,7,6,7,5,7,6,7,7,6,6.0,6.5,7.0,False
+187,38,2,2.0,2s,286.0,1.0,1.0,sell glass different scenario sport vacation,6,11,0.0,light bright colour different wearing glass read caption vacation glass web page overcrowded,13,high,40,high,1,2,2,4,5,6,6,5,6,5,4,5,6,5,5.75,4.75,5.5,False
+188,38,3,2.97,2s,368.0,1.0,1.0,sporting equipment collection fall called hillsport presumed,7,25,0.0,colour snow leopard pictured bright blue background called hillsport box collection fall picture clothes confusing picture framed box,18,high,53,high,1,2,1,3,3,4,2,4,3,4,3,2,1,3,2.25,3.5,3.0,False
+189,38,4,5.27,2s,240.0,1.0,1.0,weather forecast,2,4,0.0,colour light light blue yellow appropriate weather page gave weather forecast remember map temperature page lot hard remember,18,high,51,high,1,1,1,2,3,5,5,4,6,3,3,4,3,3,4.25,3.25,4.5,False
+190,38,5,7.5,2s,250.0,1.0,1.0,product,1,2,0.0,busy hard lot lot colour dark gave miserable dingy feel item animal page individually item feed bird,17,high,58,high,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,False
+191,38,6,8.0,2s,299.0,1.0,1.0,advice technology difficult sort picture woman hand head picture money insight tech selling,13,40,0.0,confusing dark colour lot different picture difficult selling advising picture money picture woman upset looked boring switch confusing,18,high,47,high,2,2,2,4,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0,False
+192,39,1,0.22,2s,240.0,1.0,1.0,clothing kid primarily,3,4,0.0,reasonable fashion retail outlet selling childrens clothing modelled child age approximately,11,med,14,med,0,0,0,0,4,4,6,5,5,6,5,4,5,4,5.0,5.0,4.0,False
+193,39,2,2.0,2s,201.0,0.0,0.0,holiday idea,2,2,0.0,enticing page relaxed holiday maker somethings page,7,med,24,high,0,1,0,1,5,6,6,6,6,5,5,5,5,5,5.5,5.25,5.5,False
+194,39,3,2.97,2s,253.0,0.0,0.0,dynafit travel company choice exciting safari adventure,7,13,0.0,travel company ready organise holiday lifetime africa,7,med,13,med,0,0,0,0,4,4,5,6,5,5,5,5,6,5,5.0,5.25,4.5,False
+195,39,4,5.27,2s,232.0,0.5,1.0,weather update,2,2,0.0,second managed different pic weather temperature,6,med,15,med,1,1,0,1,4,4,6,6,6,6,5,5,5,5,5.25,5.5,4.5,False
+196,39,5,7.5,2s,213.0,1.0,0.0,convenient takeaway city dweller office worker,6,9,0.0,recall fastfood option shown box takeaway food business,8,med,17,med,0,1,0,1,3,3,5,3,4,3,3,4,4,3,4.0,3.0,3.5,False
+197,39,6,8.0,2s,176.0,0.0,0.0,,0,2,0.0,looked real estate,3,low,9,low,0,0,0,0,3,2,2,3,2,3,3,2,2,3,2.25,3.0,2.0,False
+204,41,1,0.22,2s,206.0,0.0,1.0,sustainable clothing,2,2,0.0,informative site dealing sustainable clothing,5,low,8,low,0,0,0,0,2,3,3,3,4,3,2,4,3,2,3.0,2.5,3.5,False
+205,41,2,2.0,2s,267.0,0.0,0.0,holiday trip younger adult colourful upbeat,6,12,1.0,advert holiday company aimed younger upbeat bright image showing enjoying,10,med,22,med,1,0,1,1,5,7,7,6,5,6,7,7,6,7,5.75,6.5,7.0,False
+206,41,3,2.97,2s,176.0,0.0,0.0,service product possible motor industry,5,10,0.0,company offering service item industrial sector,6,med,11,low,0,0,0,0,5,4,6,4,6,4,4,5,5,4,5.5,4.0,4.5,False
+207,41,4,5.27,2s,219.0,1.0,1.0,weather report different area showing lot detail rain wind,9,16,0.0,detailed page showing expected weather summary,6,med,8,low,0,1,1,2,2,3,6,3,3,2,2,5,4,3,3.75,2.5,4.0,False
+208,41,5,7.5,2s,177.0,1.0,0.0,ticket zoo,2,4,0.5,bold attractive,2,low,7,low,0,0,1,1,3,6,4,6,3,4,6,6,3,7,3.25,5.75,6.0,False
+209,41,6,8.0,2s,197.0,1.0,1.0,different article modern technology,4,5,0.0,information packed website dealing variety tech article aimed professional person,10,med,16,med,1,1,1,2,2,2,6,4,4,5,2,4,4,2,4.0,3.25,3.0,False
+210,42,1,0.22,2s,93.0,1.0,1.0,sustainable clothing,2,2,0.0,child model clothing,3,low,4,low,0,1,0,1,6,4,5,5,6,4,3,5,6,3,5.75,3.75,4.5,True
+211,42,2,2.0,2s,73.0,1.0,1.0,eye product,2,2,0.0,campaign summer holiday contact lens,5,low,15,med,0,1,0,1,4,3,4,4,4,3,3,4,5,3,4.25,3.25,3.5,False
+212,42,3,2.97,2s,94.0,1.0,1.0,outdoor gear,2,2,0.0,leapord running mountain category option backpack foot gear,8,med,18,med,1,3,0,3,4,5,5,5,5,5,5,5,6,5,5.0,5.0,5.0,False
+213,42,4,5.27,2s,90.0,1.0,1.0,information weather,2,4,0.0,large weather map specific location listed,6,med,11,low,1,2,0,2,6,4,5,4,6,3,3,4,7,4,6.0,3.5,4.0,False
+214,42,5,7.5,2s,77.0,1.0,1.0,related product,2,3,0.0,product shown page,3,low,6,low,0,0,0,0,4,3,4,3,5,3,3,4,5,3,4.5,3.0,3.5,False
+215,42,6,8.0,2s,75.0,1.0,1.0,technology news,2,2,1.0,multiple article technology,3,low,4,low,0,1,0,1,3,3,5,3,5,4,3,4,6,4,4.75,3.5,3.5,False
+216,43,1,0.22,2s,102.0,1.0,1.0,childrens clothes,2,2,0.0,simply structered website sold childrens clothes,6,med,8,low,0,0,1,1,6,4,6,4,3,3,4,5,6,4,5.25,3.75,4.5,False
+217,43,2,2.0,2s,104.0,1.0,0.0,,0,3,1.0,blue themed website couple pictured screen,6,med,11,low,1,1,1,2,6,4,6,4,5,4,3,4,6,3,5.75,3.5,4.0,False
+218,43,3,2.97,2s,140.0,1.0,0.0,,0,2,0.0,website called hillsport big picture tiger front,7,med,15,med,0,1,0,1,4,5,3,3,4,3,3,4,5,3,4.0,3.0,4.5,False
+219,43,4,5.27,2s,120.0,1.0,1.0,weather update,2,4,0.0,weather forecast show rainy quation yellow box asks rainy,9,med,19,med,1,2,0,2,6,6,7,5,4,5,4,6,6,5,5.75,4.75,6.0,False
+220,43,5,7.5,2s,120.0,1.0,1.0,food,1,6,1.0,yellow logo called mega zoo item bottom,7,med,16,med,1,2,0,2,4,6,5,4,3,4,4,5,6,4,4.5,4.0,5.5,False
+221,43,6,8.0,2s,138.0,1.0,0.5,showed news,2,2,0.0,website called tech live image phone logo black red,9,med,18,med,1,2,0,2,5,5,4,3,5,4,3,4,4,3,4.5,3.25,4.5,False
+222,45,1,0.22,2s,110.0,1.0,1.0,sustainable clothing woman men childrens clothes,6,9,0.0,image woman child different coloured pastel background tab menswear womenswear child clothes simple website soothing pastel colour,17,high,37,high,2,2,2,4,6,6,6,6,6,5,3,5,6,4,6.0,4.5,5.5,False
+223,45,2,2.0,2s,90.0,1.0,0.0,holiday vacation,2,3,1.0,called sold cheap vacation image wearing sunglass colour sky blue,10,med,25,high,0,1,1,2,5,5,5,4,4,3,3,4,5,4,4.75,3.5,4.5,False
+224,45,3,2.97,2s,89.0,1.0,1.0,sell backpack footwear outdoor gear,5,8,0.0,image snow leopard image tab product category footwear backpack,9,med,23,med,1,2,0,2,6,6,6,5,5,5,4,6,7,5,6.0,4.75,6.0,False
+225,45,4,5.27,2s,70.0,1.0,1.0,weather report,2,4,0.0,image weather report map side weather different place prague,9,med,27,high,1,3,0,3,4,3,7,3,6,2,2,5,7,2,6.0,2.25,4.0,False
+226,45,5,7.5,2s,119.0,1.0,0.0,,0,3,0.0,colour yellow website selling product plant image,7,med,24,high,1,1,1,2,3,3,5,2,2,1,4,3,2,4,3.0,2.75,3.0,False
+227,45,6,8.0,2s,69.0,1.0,1.0,report tech news,3,5,0.0,tab side section middle news story battery,7,med,20,med,1,3,0,3,1,1,5,1,5,2,2,3,5,2,4.0,1.75,2.0,False
+228,46,1,0.22,2s,84.0,1.0,1.0,clothing,1,1,0.0,clothing retailer adult child,4,low,6,low,0,0,0,0,6,5,5,5,5,5,3,5,5,4,5.25,4.25,5.0,False
+229,46,2,2.0,2s,98.0,0.5,0.0,vacation,1,1,1.0,booking vacation,2,low,7,low,0,0,0,0,6,4,4,4,5,4,3,3,5,3,5.0,3.5,3.5,False
+230,46,3,2.97,2s,122.0,1.0,1.0,sport clothing,2,2,0.0,large image snow leopard looked nice,6,med,10,low,0,1,0,1,5,5,5,4,5,4,4,5,5,4,5.0,4.0,5.0,False
+231,46,4,5.27,2s,92.0,1.0,1.0,weather prediction,2,2,0.0,site give weather prediction looked nice simple,7,med,13,med,0,0,1,1,6,5,6,6,6,4,4,6,6,5,6.0,4.75,5.5,False
+232,46,5,7.5,2s,139.0,1.0,1.0,animal product,2,2,0.0,site sell product animal colourful,5,low,10,low,0,0,1,1,5,3,4,3,5,2,3,3,5,3,4.75,2.75,3.0,False
+233,46,6,8.0,2s,132.0,1.0,0.5,news,1,1,0.0,looked site showed article tech news,6,med,10,low,0,0,0,0,2,3,3,4,4,4,2,3,3,2,3.0,3.0,3.0,False
+234,47,1,0.22,2s,151.0,1.0,1.0,clothes woman child,3,6,0.0,picture woman child wearing white stripy clothes,7,med,11,low,0,1,0,1,7,5,5,4,4,4,5,6,5,4,5.25,4.25,5.5,False
+235,47,2,2.0,2s,92.0,1.0,0.0,vacation,1,1,0.5,family beach,2,low,4,low,0,1,0,1,7,6,5,5,4,4,5,6,6,4,5.5,4.5,6.0,False
+236,47,3,2.97,2s,111.0,1.0,0.0,,0,2,0.0,jaguar word collection,3,low,6,low,1,2,0,2,7,5,4,4,4,4,5,5,4,4,4.75,4.25,5.0,False
+237,47,4,5.27,2s,120.0,1.0,1.0,weather forecast,2,2,0.0,weather infotmation,2,low,5,low,0,0,0,0,7,5,4,4,5,4,5,6,6,4,5.5,4.25,5.5,False
+238,47,5,7.5,2s,78.0,1.0,0.0,,0,2,0.0,,0,low,7,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+239,47,6,8.0,2s,187.0,1.0,0.5,tech,1,5,0.0,lot writting picture white vagon,5,low,9,low,0,0,1,1,4,4,4,4,4,4,3,5,5,4,4.25,3.75,4.5,False
+240,50,1,0.22,2s,132.0,1.0,1.0,clothing woman child,3,6,0.0,photo labelled men woman childrens clothing presumably link section page simple plain lot empty space picture model appearing casual friendly pose highlighted outfit small menu top page possible search bar,30,high,61,high,3,3,2,5,7,5,6,4,5,4,4,5,7,4,6.25,4.0,5.0,False
+241,50,2,2.0,2s,118.0,1.0,1.0,sunglass possibly regular glass optical service,6,8,1.0,book appointment button top picture model sunglass page blue sunny feeling relating travel,13,high,32,high,1,2,1,3,5,5,4,4,3,3,4,4,3,4,3.75,3.75,4.5,False
+242,50,3,2.97,2s,140.0,1.0,1.0,outdoor clothing equipment believe,4,6,0.0,large picture tiger screen left picture bottom page labelled shopping category web page large clear image lot red,18,high,44,high,2,2,1,3,5,6,6,7,5,5,6,6,7,6,5.75,6.0,6.0,True
+243,50,4,5.27,2s,125.0,1.0,1.0,weather forecasting,2,3,0.0,part web page featured representation map weather information hand side table weather information possibly different day area lot information packed space difficult focus attention probably easier familiar page,28,high,66,high,2,2,1,3,3,3,4,4,5,4,3,4,5,4,4.25,3.75,3.5,False
+244,50,5,7.5,2s,88.0,1.0,1.0,animal product food toy enrichment,5,6,0.0,photo different section including terrarium empty space top section webpage,10,med,20,med,1,2,0,2,3,2,3,2,4,2,3,3,4,4,3.5,2.75,2.5,False
+245,50,6,8.0,2s,108.0,1.0,1.0,news information technology,3,5,0.0,multiple section containing multiple article centre section left section immediately clear grouping article different section referred felt similar newspaper page,20,high,55,high,2,2,0,2,2,2,3,3,2,3,2,3,2,2,2.25,2.5,2.5,False
+246,2,1,0.22,5s,45.0,1.0,1.0,sustainable clothes,2,2,0.0,pqale bland inviting,3,low,5,low,0,0,1,1,6,5,4,3,4,4,4,3,3,3,4.25,3.5,4.0,False
+247,2,2,2.0,5s,22.0,1.0,0.0,vacation,1,1,1.0,bright colourful inviting,3,low,3,low,0,0,1,1,5,5,4,4,5,5,5,5,5,5,4.75,4.75,5.0,False
+248,2,3,2.97,5s,42.0,0.5,1.0,athletic gear,2,2,0.0,big tiger running hill information,5,low,10,low,0,2,0,2,3,4,4,4,3,3,3,4,4,4,3.5,3.5,4.0,False
+249,2,4,5.27,5s,39.0,1.0,1.0,weather forecast,2,3,0.0,lot information overly colourful,4,low,6,low,0,0,2,2,3,4,3,4,4,3,3,3,4,4,3.5,3.5,3.5,False
+250,2,5,7.5,5s,48.0,1.0,1.0,item,1,2,1.0,busy lot colourful,3,low,7,low,0,0,2,2,3,4,4,4,4,3,3,4,3,4,3.5,3.5,4.0,False
+251,2,6,8.0,5s,36.0,1.0,0.0,battery,1,1,0.0,word concentrate,2,low,5,low,0,0,0,0,1,1,2,3,3,3,4,4,3,4,2.25,3.5,2.5,False
+252,3,1,0.22,5s,114.0,1.0,1.0,clothing age gender,3,6,0.0,sleek website big picture middle panel picture bottom category,9,med,17,med,1,2,0,2,7,6,6,6,5,5,5,6,7,5,6.25,5.25,6.0,False
+253,3,2,2.0,5s,95.0,1.0,1.0,sunglass eye protection,3,4,1.0,blue webpage picture middle beach,5,low,12,med,1,1,1,2,3,4,3,3,4,2,2,2,3,2,3.25,2.25,3.0,False
+254,3,3,2.97,5s,208.0,1.0,1.0,sportswear,1,1,0.0,blueish website homepage big big picture,6,med,10,low,0,1,1,2,6,5,6,4,5,5,3,5,5,5,5.5,4.25,5.0,False
+255,3,4,5.27,5s,223.0,1.0,1.0,website show weather foecast,4,7,0.5,title navigation bar top big map picture different location corresponding weather option,12,med,23,med,2,3,0,3,3,3,5,3,5,4,5,5,5,5,4.5,4.25,4.0,False
+256,3,5,7.5,5s,100.0,1.0,1.0,food,1,2,1.0,yellow themed page picture food,5,low,10,low,1,1,1,2,4,5,5,5,4,3,4,5,5,5,4.5,4.25,5.0,False
+257,3,6,8.0,5s,962.0,1.0,0.5,battery technology,2,3,0.0,looked alot information page title bold writing,7,med,16,med,1,1,1,2,2,2,3,3,3,2,3,3,3,3,2.75,2.75,2.5,False
+258,4,1,0.22,5s,64.0,1.0,1.0,clothing,1,1,0.0,advetising clothing woman child great colour,6,med,9,low,1,1,0,1,4,5,4,5,4,4,5,4,5,4,4.25,4.5,4.5,False
+259,4,2,2.0,5s,96.0,1.0,1.0,glass sport glass sunglass,4,4,0.0,picture family vacation location advertising sunglass sport glass,8,med,11,low,0,1,0,1,6,6,6,5,5,4,4,4,4,6,5.25,4.75,5.0,False
+260,4,3,2.97,5s,61.0,1.0,1.0,sport gear,2,2,0.0,found lot hard remember,4,low,13,med,0,0,0,0,3,6,4,4,5,4,4,4,5,5,4.25,4.25,5.0,False
+261,4,4,5.27,5s,424.0,1.0,1.0,news weather,2,4,0.5,unsure,1,low,1,low,0,0,0,0,4,5,4,5,4,4,4,4,4,4,4.0,4.25,4.5,False
+262,4,5,7.5,5s,67.0,1.0,0.0,food,1,1,0.0,colourful,1,low,1,low,0,0,1,1,4,4,4,4,4,4,5,5,5,5,4.25,4.5,4.5,False
+263,4,6,8.0,5s,128.0,1.0,0.0,complicated alot,2,5,0.0,writing hard,2,low,14,med,0,0,1,1,2,2,2,4,4,2,4,4,4,4,3.0,3.5,3.0,False
+264,5,1,0.22,5s,118.0,1.0,1.0,sustainable fashion woman kid,4,7,0.0,web page woman child bright clothing company white writing blue background called whistle sold sustainable clothing,16,high,37,high,2,3,0,3,4,3,5,4,5,4,3,5,6,3,5.0,3.5,4.0,False
+265,5,2,2.0,5s,104.0,1.0,1.0,eyewear contact lens sunglass,4,4,0.0,box bottom web page contact lens sunglass eye wear featured including child company top page,15,high,41,high,2,3,0,3,4,3,5,3,4,2,2,3,3,3,4.0,2.5,3.0,False
+266,5,3,2.97,5s,105.0,1.0,1.0,clothing,1,1,0.0,ugly website large leopard big image laid confusing hard due mix font colour,13,high,39,high,1,1,1,2,2,1,2,1,4,1,2,2,1,1,2.25,1.25,1.5,False
+267,5,4,5.27,5s,75.0,1.0,1.0,weather information,2,2,0.0,blue white website design cheap graphic tab top radar information weather report,12,med,19,med,1,2,1,3,3,2,3,2,4,2,3,4,2,2,3.0,2.25,3.0,False
+268,5,5,7.5,5s,149.0,1.0,1.0,supply,1,2,1.0,page large cardboard box website messy hard product box bottom page colour horrible,13,high,35,high,2,2,2,4,3,1,5,3,5,3,2,2,4,3,4.25,2.75,1.5,False
+269,5,6,8.0,5s,120.0,1.0,0.5,news article,2,2,0.5,website white black lot possible link article laid sort news style setting clean functional looked simple,16,high,37,high,1,1,2,3,6,6,7,6,5,5,4,5,6,4,6.0,4.75,5.5,False
+270,6,1,0.22,5s,95.0,1.0,1.0,sell men woman childrens clothes,5,6,0.0,simple stylish easy navigate busy webpage enabling shop clothes online weird logo connected website,14,high,25,high,1,1,3,4,7,7,7,7,5,6,6,7,7,4,6.5,5.75,7.0,False
+271,6,2,2.0,5s,62.0,0.5,1.0,contact lens glass,3,4,0.0,clear smiley wearing sunglass,4,low,9,low,0,1,0,1,7,7,6,5,6,3,4,4,6,4,6.25,4.0,5.5,False
+272,6,3,2.97,5s,78.0,0.0,1.0,outdoorsy shoe clothes,3,4,1.0,big animal bit scary offer clear menu option,8,med,13,med,1,2,1,3,5,3,6,2,4,4,5,4,3,3,4.5,3.5,3.5,False
+273,6,4,5.27,5s,82.0,1.0,1.0,weather information prognosis,3,5,0.0,map area weather indicated prognosis prague natural blue colour,9,med,14,med,1,2,1,3,6,5,6,5,4,4,6,6,6,6,5.5,5.25,5.5,False
+274,6,5,7.5,5s,70.0,0.5,1.0,animal food accessory,3,4,0.0,lot lot picures text remember pick branch deliver,8,med,22,med,1,1,1,2,2,4,2,3,4,4,4,3,2,4,2.5,3.75,3.5,False
+275,6,6,8.0,5s,49.0,1.0,0.5,online magazine,2,5,0.0,bunch article,2,low,4,low,0,1,0,1,2,3,2,4,6,3,2,3,3,4,3.25,3.25,3.0,False
+276,7,1,0.22,5s,99.0,1.0,1.0,kid clothing,2,2,0.0,different section different type clothing clothing boy girl,8,med,12,med,0,1,0,1,6,5,5,4,5,4,4,5,5,4,5.25,4.0,5.0,False
+277,7,2,2.0,5s,121.0,1.0,1.0,glass contact lens,3,5,1.0,website advertising ready vacation order make customer aware product made sunlight,11,med,20,med,1,1,0,1,6,6,6,5,5,6,5,6,7,5,6.0,5.25,6.0,False
+278,7,3,2.97,5s,149.0,1.0,1.0,sell clothing hiking mounting climbing extreme sport activity,8,12,0.0,large option category navigate offering different item sell different,9,med,14,med,0,1,0,1,5,5,5,4,4,6,4,5,4,4,4.5,4.5,5.0,False
+279,7,4,5.27,5s,123.0,1.0,1.0,news weather different location,4,8,0.0,map area showing estimated temperature weather condition,7,med,11,low,1,1,0,1,6,5,6,5,6,3,4,6,6,4,6.0,4.0,5.5,False
+280,7,5,7.5,5s,176.0,1.0,1.0,toy food supply pet,4,7,1.0,looked website buy treat food toy pet list scroll subheading,10,med,24,high,1,2,0,2,7,7,7,5,6,4,4,7,7,4,6.75,4.25,7.0,False
+281,7,6,8.0,5s,145.0,1.0,1.0,news latest gadget technology developed,5,12,1.0,article style layout picture indicating site,6,med,15,med,0,1,1,2,3,2,4,3,6,5,3,4,3,1,4.0,3.0,3.0,False
+282,8,1,0.22,5s,121.0,1.0,1.0,clothes sustainable fashion,3,5,1.0,whistle sustainable clothes neutral colour men section picture woman childrens bottom,11,med,21,med,2,2,1,3,7,6,5,5,5,4,4,5,6,4,5.75,4.25,5.5,False
+283,8,2,2.0,5s,110.0,1.0,0.5,eye thing holiday thing,4,5,1.0,beach picture bright white page fresh thing select,8,med,13,med,0,1,2,3,7,7,6,6,4,4,4,5,7,4,6.0,4.5,6.0,False
+284,8,3,2.97,5s,109.0,1.0,1.0,outdoor walking sport equipment,4,4,0.0,outdoor sport website lion tiger logo section footwear bottom,9,med,25,high,1,2,0,2,6,6,6,5,5,5,4,6,6,4,5.75,4.5,6.0,False
+285,8,4,5.27,5s,90.0,1.0,1.0,weather information,2,3,1.0,pretty normal weather website info day side section info week article iceberg,12,med,23,med,1,3,0,3,6,4,6,4,5,4,4,5,5,4,5.5,4.0,4.5,False
+286,8,5,7.5,5s,104.0,1.0,1.0,product,1,2,1.0,website pet product colourful banner top,6,med,11,low,0,1,1,2,6,4,6,4,5,4,4,5,6,4,5.75,4.0,4.5,False
+287,8,6,8.0,5s,138.0,0.0,0.5,information website news medium read hand side,7,11,0.0,website information news page read hand side big article middle lot left hand side,14,high,29,high,1,3,0,3,3,5,5,5,4,5,5,5,5,5,4.25,5.0,5.0,False
+288,9,1,0.22,5s,99.0,1.0,1.0,sustainable fashion,2,4,0.0,top small logo furtherdown picture child woman wearing brand clothes,10,med,23,med,1,2,0,2,6,5,5,5,5,4,4,5,5,5,5.25,4.5,5.0,False
+289,9,2,2.0,5s,94.0,1.0,1.0,glass eyewear,2,3,1.0,featured prominent headline summer offer photograph family beach left hand side photoboxes advertising different category sunglass,16,high,33,high,2,3,0,3,5,5,5,5,5,5,4,5,5,5,5.0,4.75,5.0,False
+290,9,3,2.97,5s,129.0,1.0,1.0,mountaineering sport item clothing,4,5,0.0,big picture snow leopard foreground woman running mountain background image text click featuring different category product,16,high,38,high,2,3,0,3,5,5,5,5,5,5,4,5,5,5,5.0,4.75,5.0,False
+291,9,4,5.27,5s,110.0,1.0,1.0,weather forceasting website,3,6,1.0,weather forecasting website includes forecast day coming day typical symbol forecasting including cloud sun significant part screen,17,high,37,high,2,2,0,2,5,5,5,4,5,2,4,5,3,5,4.5,3.75,5.0,False
+292,9,5,7.5,5s,136.0,1.0,1.0,food related item,3,6,0.0,store related item top featured horizontal bar category including small mammal featured specific product price,15,high,34,high,2,2,0,2,5,3,5,4,5,3,3,4,5,4,5.0,3.5,3.5,False
+293,9,6,8.0,5s,102.0,1.0,1.0,news tech,2,3,0.0,sidebar block text presumably different article middle headline picture smaller picture relating specific article,14,high,34,high,2,3,0,3,3,3,5,4,5,2,2,3,2,2,3.75,2.5,3.0,False
+294,10,1,0.22,5s,105.0,1.0,0.0,pyjama,1,1,0.0,pyjama website design woman child design looked fun engaging child cartoonish design,12,med,22,med,1,1,1,2,6,6,6,5,6,5,4,6,7,5,6.25,4.75,6.0,False
+295,10,2,2.0,5s,93.0,1.0,1.0,eye product,2,3,0.5,different eye product slightly misleading initially website holiday guess product thing contact lens sunglass,14,high,26,high,1,1,0,1,2,2,1,2,2,2,2,2,1,2,1.5,2.0,2.0,False
+296,10,3,2.97,5s,75.0,1.0,1.0,outdoor gear,2,2,0.0,selling outdoor gear coat backpack,5,low,6,low,0,0,0,0,6,6,5,4,6,4,3,6,6,4,5.75,3.75,6.0,False
+297,10,4,5.27,5s,76.0,1.0,1.0,weather forecast,2,2,0.5,weather map weather condition forecast believe forecast rain cloud,9,med,15,med,1,2,0,2,4,3,3,3,5,2,2,3,4,4,4.0,2.75,3.0,False
+298,10,5,7.5,5s,130.0,1.0,1.0,animal product feed believe,4,5,0.0,website selling animal product believe feed recall heading top different animal listed,12,med,22,med,1,1,0,1,3,3,2,3,2,2,5,4,3,6,2.5,4.0,3.5,False
+299,10,6,8.0,5s,85.0,1.0,1.0,tech news,2,2,0.0,website tech news central column subordinate column left news story,10,med,19,med,1,2,0,2,1,2,1,1,1,1,1,1,1,1,1.0,1.0,1.5,False
+300,11,1,0.22,5s,128.0,1.0,1.0,clothing child woman,3,6,0.0,website crowded information simply showing sell clothing woman child,9,med,18,med,1,1,1,2,6,5,5,5,5,4,4,5,5,5,5.25,4.5,5.0,False
+301,11,2,2.0,5s,103.0,1.0,1.0,corrective eyeware,2,2,1.0,website contained information glass sun glass contact lens,8,med,11,low,0,1,0,1,5,5,5,5,4,5,6,6,5,5,4.75,5.25,5.5,False
+302,11,3,2.97,5s,144.0,1.0,1.0,outdoors equipment,2,2,0.0,website relating outdoors activity tiger lion large picture hiking bottom page showed product selling relevance tiger lion glance,18,high,47,high,2,3,0,3,5,6,6,6,5,5,6,6,5,6,5.25,5.75,6.0,False
+303,11,4,5.27,5s,116.0,1.0,1.0,weather forecasting,2,2,0.0,website lot information lot weather symbol orange banner top rain,10,med,26,high,1,2,0,2,3,4,5,4,3,4,4,5,4,5,3.75,4.25,4.5,False
+304,11,5,7.5,5s,108.0,1.0,1.0,supply,1,2,0.0,page lot thing grasped theme pet,6,med,28,high,0,0,1,1,3,5,3,4,3,4,4,4,3,4,3.0,4.0,4.5,False
+305,11,6,8.0,5s,126.0,1.0,0.5,news article,2,2,0.0,website laid similar news website recognised layout visited site article top relating finance article foreground relating batter plant,18,high,44,high,2,2,1,3,5,5,5,6,6,5,5,5,6,5,5.5,5.25,5.0,False
+306,12,1,0.22,5s,125.0,1.0,1.0,sustainable fashion,2,2,0.0,minimalist design sans serif typography neutral colour simple landing page option,11,med,13,med,1,0,3,3,5,6,6,6,6,6,4,6,6,6,5.75,5.5,6.0,False
+307,12,2,2.0,5s,97.0,1.0,1.0,sunglass contact,2,3,1.0,simple layout predominant colour blue lot different featured different option,10,med,17,med,1,1,2,3,3,4,4,4,4,4,4,3,4,4,3.75,4.0,3.5,False
+308,12,3,2.97,5s,134.0,1.0,1.0,outdoors clothing essential,3,5,0.0,landing page large emphasis cheetah image take attention away rest website,11,med,20,med,1,1,0,1,4,2,2,3,2,1,1,3,1,1,2.25,1.5,2.5,False
+309,12,4,5.27,5s,94.0,1.0,1.0,weather,1,1,0.0,large image weather day option thing blue predominant landing page,10,med,24,high,1,1,1,2,2,1,5,4,7,5,2,4,4,2,4.5,3.25,2.5,False
+310,12,5,7.5,5s,117.37,1.0,1.0,animal supply,2,2,0.0,yellow red predominant colour lot eye catching element section making hard read figure,13,high,28,high,1,0,1,1,1,1,1,1,5,1,1,1,1,1,2.0,1.0,1.0,False
+311,12,6,8.0,5s,194.0,0.5,0.5,news,1,1,0.0,lot news column central column take page image article column made headline illustrative component,14,high,30,high,2,3,0,3,2,1,1,3,6,1,1,1,2,2,2.75,1.75,1.0,False
+312,14,1,0.22,5s,55.0,1.0,1.0,clothes,1,1,1.0,made fashion site,3,low,4,low,0,0,0,0,6,6,6,6,5,5,4,5,5,5,5.5,5.0,5.5,False
+313,14,2,2.0,5s,71.0,1.0,1.0,eye service,2,2,0.0,looked alright professional,3,low,6,low,0,0,0,0,4,4,5,4,5,4,4,5,5,4,4.75,4.0,4.5,False
+314,14,3,2.97,5s,71.0,1.0,0.0,remember,1,2,0.0,staring tiger attention grabbing,4,low,8,low,0,1,0,1,4,5,5,4,4,4,4,5,5,5,4.5,4.25,5.0,False
+315,14,4,5.27,5s,57.0,1.0,1.0,weather update,2,2,1.0,looked clear simple,3,low,4,low,0,0,1,1,6,6,5,6,5,6,5,5,5,5,5.25,5.5,5.5,False
+316,14,5,7.5,5s,63.0,1.0,0.5,animal stuff,2,2,0.0,looked colourful profesional,3,low,4,low,0,0,1,1,5,6,5,5,4,6,5,5,5,5,4.75,5.25,5.5,False
+317,14,6,8.0,5s,52.0,1.0,0.5,news,1,1,0.0,word looked crowded,3,low,6,low,0,0,1,1,3,3,4,4,4,4,3,4,4,3,3.75,3.5,3.5,False
+318,15,1,0.22,5s,148.0,1.0,1.0,child adult clothing,3,4,0.0,minimalist website clothes appeared pyjama kid adult appeared priced,9,med,24,high,1,1,1,2,6,6,6,6,4,5,5,6,6,5,5.5,5.25,6.0,False
+319,15,2,2.0,5s,89.0,1.0,1.0,optician,1,1,1.0,option purchase glass sunglass contact lens,6,med,8,low,1,1,0,1,6,6,6,6,6,6,6,6,6,6,6.0,6.0,6.0,False
+320,15,3,2.97,5s,87.0,1.0,1.0,outdoor clothing,2,2,1.0,animal largest photo promoting,4,low,9,low,0,1,0,1,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+321,15,4,5.27,5s,90.0,1.0,1.0,weather forecast,2,2,0.0,weather information czech republic,4,low,5,low,0,1,0,1,5,6,5,5,5,5,5,5,5,5,5.0,5.0,5.5,False
+322,15,5,7.5,5s,103.0,1.0,1.0,animal food,2,2,0.0,product animal,2,low,3,low,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+323,15,6,8.0,5s,109.0,1.0,0.5,article,1,2,0.0,looked news article website different article,6,med,13,med,0,1,0,1,4,3,4,4,3,4,3,4,3,3,3.5,3.5,3.5,False
+324,17,1,0.22,5s,147.0,1.0,1.0,clothing store selling clothes woman child,6,12,0.0,section woman child clothing offer free shipping date july whistle written white inside blue box option select diferent language selected,20,high,46,high,3,4,0,4,6,6,6,6,6,6,4,6,6,6,6.0,5.5,6.0,False
+325,17,2,2.0,5s,142.0,1.0,1.0,sell eyewear eye examination,4,9,0.0,family beach blue sky yellow sandy beach noticed nearest store location prague book examination online,15,high,25,high,1,3,0,3,5,6,6,6,5,5,6,6,6,6,5.5,5.75,6.0,False
+326,17,3,2.97,5s,177.0,1.0,1.0,sell product wth hiking,4,7,0.0,hiking bottom scren section backpack site bright dull ahve spend time recall overly busy different section backpack section running,19,high,68,high,3,3,2,5,6,6,6,6,6,6,5,6,6,6,6.0,5.75,6.0,False
+327,17,4,5.27,5s,168.0,1.0,1.0,weather forecast,2,4,0.0,noticed displaying weather prague big blue box cloud forecast coming day easily identifiable weather forecast site,16,high,36,high,3,3,0,3,5,5,7,4,6,4,5,6,6,6,6.0,4.75,5.5,False
+328,17,5,7.5,5s,184.0,1.0,1.0,product animal store,3,7,1.0,colourful mcdonalds colour scheme yellow red apparent realised store beciase water fountain recently indication store,15,high,55,high,2,1,2,3,3,3,5,2,3,2,3,3,3,5,3.5,3.0,3.0,False
+329,17,6,8.0,5s,225.0,1.0,1.0,newspaper geared schience technology community,5,14,0.0,text screen lot headline busy read headline properly quickly scanned page image stick head lady staring open mouthed oage white background text page,23,high,65,high,2,2,1,3,1,5,4,4,3,5,3,4,5,4,3.25,4.0,4.5,False
+330,18,1,0.22,5s,54.0,1.0,1.0,clothes,1,1,0.0,link female kid clothes,4,low,6,low,0,1,0,1,6,5,4,4,5,4,4,5,5,4,5.0,4.0,5.0,False
+331,18,2,2.0,5s,66.0,1.0,1.0,glass,1,1,0.0,website selling glass,3,low,4,low,0,0,0,0,5,5,4,4,4,5,3,5,5,4,4.5,4.0,5.0,False
+332,18,3,2.97,5s,64.0,1.0,1.0,climbing gear,2,2,0.0,walker hill,2,low,4,low,0,1,0,1,3,4,5,5,4,5,5,5,5,5,4.25,5.0,4.5,False
+333,18,4,5.27,5s,64.0,1.0,1.0,weather forecast,2,2,0.0,big weather map,3,low,3,low,0,1,0,1,4,3,6,4,5,3,4,4,4,4,4.75,3.75,3.5,False
+334,18,5,7.5,5s,74.0,1.0,0.0,,0,2,0.0,random featured product,3,low,5,low,1,1,0,1,4,3,4,3,4,3,3,3,3,3,3.75,3.0,3.0,False
+335,18,6,8.0,5s,49.0,1.0,1.0,tech blog,2,2,0.0,lot news story,3,low,4,low,0,1,0,1,3,3,5,4,5,4,3,4,4,3,4.25,3.5,3.5,False
+336,19,1,0.22,5s,154.0,1.0,1.0,clothes,1,1,1.0,clothes site purchase outfit family,5,low,13,med,0,1,0,1,7,4,7,7,7,4,7,7,7,4,7.0,5.5,5.5,False
+337,19,2,2.0,5s,87.0,1.0,1.0,eyewear,1,1,1.0,website offer glass sunglass contact lens presumably prescription,8,med,12,med,0,1,0,1,7,7,7,7,7,7,7,7,7,7,7.0,7.0,7.0,False
+338,19,3,2.97,5s,177.0,0.5,1.0,outdoor sport product,3,3,1.0,black white leopard picture couple trekking back sell outdoor clothing product,11,med,25,high,1,2,0,2,7,4,7,4,7,4,4,7,7,4,7.0,4.0,5.5,False
+339,19,4,5.27,5s,127.0,1.0,1.0,weather information,2,3,1.0,looked weather forecasting website,4,low,7,low,0,0,0,0,7,4,7,4,7,4,4,7,7,4,7.0,4.0,5.5,False
+340,19,5,7.5,5s,217.0,1.0,1.0,site sell food product animal sign online branch,8,21,1.0,buy food animal product,4,low,11,low,0,0,0,0,7,7,7,7,7,4,7,7,7,7,7.0,6.25,7.0,False
+341,19,6,8.0,5s,165.0,1.0,1.0,site information tech,3,7,1.0,article energy technology,3,low,15,med,0,1,0,1,7,4,7,4,7,4,7,7,7,4,7.0,4.75,5.5,False
+342,20,1,0.22,5s,118.0,1.0,1.0,sustainable fashion,2,2,0.0,pastel yellow navy blue photo child woman pastel clothes,9,med,13,med,1,1,1,2,7,5,7,4,7,5,4,4,7,3,7.0,4.0,4.5,False
+343,20,2,2.0,5s,121.0,1.0,1.0,glass contact lens,3,4,1.0,blue white colour scheme glass sunglass sunny picture fresh summery,10,med,14,med,1,1,2,3,6,7,4,5,7,5,4,6,7,6,6.0,5.0,6.5,False
+344,20,3,2.97,5s,123.0,1.0,1.0,running hiking gear,3,3,0.0,white blue red colour scheme couple running hill logo big picture,11,med,14,med,1,3,1,4,7,6,7,6,7,6,4,6,7,4,7.0,5.0,6.0,False
+345,20,4,5.27,5s,100.0,1.0,1.0,weather forecast,2,2,0.0,blue white colour scheme weather map weather photo weather forecast calendar,11,med,11,low,1,3,1,4,7,6,7,6,7,5,4,7,7,4,7.0,4.75,6.5,False
+346,20,5,7.5,5s,122.0,1.0,1.0,product,1,2,0.0,yellow red colour scheme pic animal animal product,8,med,11,low,1,1,1,2,7,5,7,4,7,4,4,5,7,4,7.0,4.0,5.0,False
+347,20,6,8.0,5s,119.0,1.0,1.0,news technology,2,3,0.0,tech story headline black white,5,low,8,low,0,1,1,2,7,4,7,4,7,4,3,5,7,3,7.0,3.5,4.5,False
+348,21,1,0.22,5s,93.0,1.0,0.0,pijamas,1,1,0.0,boring commerce,2,low,4,low,0,0,0,0,4,4,4,4,4,3,2,3,5,2,4.25,2.75,3.5,False
+349,21,2,2.0,5s,85.0,1.0,1.0,lens eye,2,3,0.0,looked holiday resort advert,4,low,7,low,0,0,0,0,4,4,5,4,4,4,4,4,5,4,4.5,4.0,4.0,False
+350,21,3,2.97,5s,107.0,1.0,1.0,trekking sportwear,2,2,0.0,banal,1,low,2,low,0,0,0,0,4,4,3,3,5,2,3,4,4,3,4.0,2.75,4.0,False
+351,21,4,5.27,5s,112.0,1.0,1.0,weather report,2,2,0.0,clean fresh page light color,5,low,10,low,0,0,1,1,6,5,6,4,6,5,4,6,5,4,5.75,4.25,5.5,False
+352,21,5,7.5,5s,82.0,1.0,1.0,animal food tool,3,4,1.0,hard remember,2,low,3,low,0,0,0,0,4,4,3,5,4,3,5,5,2,4,3.25,4.25,4.5,False
+353,21,6,8.0,5s,126.0,1.0,1.0,technology info,2,2,0.0,load information pre dominant white background small fixed dimension make hard read recall,13,high,19,med,1,0,1,1,4,3,2,3,4,3,3,3,3,4,3.25,3.25,3.0,False
+354,22,1,0.22,5s,277.0,1.0,1.0,clothes fashion evrryone looked pyjama age generally yellow colour scheme aimed family,12,22,1.0,small whistle logo top left scrolled font image woman young girl casual light yellow informal clothing girl hedgehog front smiling pleasently leaning left casual expression,25,high,43,high,3,3,0,3,6,4,6,5,5,5,3,5,5,4,5.5,4.25,4.5,False
+355,22,2,2.0,5s,205.0,1.0,0.0,item ready holiday,3,8,1.0,family smiling laying golden sand sunglass row big small youngest child underneath image good offer suncream sunglass logo top left,20,high,40,high,3,3,0,3,6,6,6,5,6,5,5,5,6,5,6.0,5.0,5.5,False
+356,22,3,2.97,5s,279.0,1.0,1.0,outdoor clothing accessory,3,4,0.0,full colour image fell runner running side mountain modern outdoor gear image gear offer shoe outdoor clothes left leopard image full greyscale contrasted colour photo back,26,high,54,high,2,3,0,3,2,6,6,6,5,6,6,6,6,6,4.75,6.0,6.0,False
+357,22,4,5.27,5s,184.0,1.0,1.0,show weather forecast,3,4,1.0,weathery logo top forecast day week clickable graphic bottom row blue traditional weather symbol weather particular region area map image central temp symbol,23,high,45,high,2,3,0,3,3,6,6,6,6,5,6,6,6,5,5.25,5.5,6.0,False
+358,22,5,7.5,5s,229.0,1.0,0.0,selling minute food possibly walnut,5,10,0.0,large text graphic large image plain background red dial type clock graphic min second text white background made easy,19,high,27,high,2,2,1,3,6,4,6,3,6,2,2,4,6,2,6.0,2.25,4.0,False
+359,22,6,8.0,5s,277.0,1.0,1.0,providing tech knowledge computer building,5,11,0.0,simple block font logo tech live left series news item clicked opened reading picture white building horse shoe shape possible desert setting,22,high,43,high,2,3,0,3,3,5,6,5,5,5,5,5,6,4,5.0,4.75,5.0,False
+360,25,1,0.22,5s,114.0,1.0,1.0,clothing woman child,3,6,0.0,website clothes section person bright appealing colour usage,8,med,19,med,1,1,1,2,5,6,5,5,5,5,5,5,5,5,5.0,5.0,5.5,False
+361,25,2,2.0,5s,127.0,1.0,1.0,eye product,2,3,0.0,show eye product promoting life family made section including eye lense,11,med,18,med,0,1,0,1,5,5,6,6,5,6,5,5,5,5,5.25,5.5,5.0,False
+362,25,3,2.97,5s,297.0,1.0,1.0,sportswear,1,1,0.0,webpage sportswear outdoor mountain climbing,5,low,8,low,0,0,0,0,4,6,5,6,5,5,5,5,5,5,4.75,5.25,5.5,False
+363,25,4,5.27,5s,115.0,1.0,1.0,weather,1,3,0.0,show weather prediction,3,low,4,low,0,0,0,0,5,5,5,5,5,4,5,5,5,6,5.0,5.0,5.0,False
+364,25,5,7.5,5s,194.0,1.0,0.0,bright website home product,4,4,0.0,bright yellow block colour top product underneath,7,med,10,low,1,1,1,2,5,3,5,3,3,2,5,4,6,5,4.75,3.75,3.5,False
+365,25,6,8.0,5s,123.0,1.0,0.0,battery energy source,3,6,0.0,energy source alot wording,4,low,6,low,0,0,1,1,2,3,5,4,4,4,3,4,5,5,4.0,4.0,3.5,False
+366,26,1,0.22,5s,70.0,1.0,1.0,clothes,1,1,0.0,simple website selling clothes woman kid,6,med,9,low,1,1,1,2,6,5,6,5,6,5,5,6,6,4,6.0,4.75,5.5,False
+367,26,2,2.0,5s,62.0,1.0,1.0,sunglass glass,2,3,0.0,website selling glass contact lens sunglass,6,med,7,low,0,1,0,1,5,5,5,6,4,6,5,5,6,5,5.0,5.5,5.0,False
+368,26,3,2.97,5s,75.0,1.0,0.5,backpack running shoe,3,4,0.0,clean design snow leopard picture hiking,6,med,12,med,1,2,1,3,5,6,5,6,5,5,5,6,5,6,5.0,5.5,6.0,False
+369,26,4,5.27,5s,67.0,1.0,1.0,weather advice forecast,3,4,0.0,different section weather news forecast,5,low,7,low,0,1,0,1,3,4,6,5,5,4,5,6,5,5,4.75,4.75,5.0,False
+370,26,5,7.5,5s,97.0,1.0,1.0,product,1,2,1.0,yellow black color scheme big section center describing order online pick local branch,13,high,23,med,1,1,1,2,3,5,5,6,3,5,6,5,3,6,3.5,5.75,5.0,False
+371,26,6,8.0,5s,71.0,1.0,1.0,tech news,2,2,0.0,tech news website section different type tech news,8,med,12,med,0,1,0,1,2,3,4,4,5,4,3,4,2,3,3.25,3.5,3.5,False
+372,27,1,0.22,5s,121.0,1.0,1.0,clothing,1,1,0.0,picture including woman child professional stylish bright colourful,8,med,15,med,1,1,2,3,6,6,6,7,5,7,6,6,7,7,6.0,6.75,6.0,False
+373,27,2,2.0,5s,116.0,1.0,1.0,contact lens,2,2,1.0,large image text plain,4,low,6,low,1,1,1,2,6,5,5,5,4,5,4,5,6,4,5.25,4.5,5.0,False
+374,27,3,2.97,5s,100.0,1.0,0.0,,0,2,0.0,large picture text obvious website,5,low,13,med,0,1,1,2,4,5,4,4,3,5,5,4,4,5,3.75,4.75,4.5,False
+375,27,4,5.27,5s,143.0,1.0,1.0,detail weather,2,4,0.0,illustration dropdown menu text,4,low,5,low,0,2,0,2,5,4,6,4,6,4,3,4,6,4,5.75,3.75,4.0,False
+376,27,5,7.5,5s,91.0,1.0,1.0,food,1,2,0.0,image text colourful show selling,5,low,10,low,0,0,1,1,5,5,6,5,4,5,6,5,6,5,5.25,5.25,5.0,False
+377,27,6,8.0,5s,123.0,1.0,0.5,news,1,1,0.0,wordy picture small intriguing,4,low,7,low,0,1,1,2,5,3,5,3,4,3,3,3,5,3,4.75,3.0,3.0,False
+378,28,1,0.22,5s,173.0,1.0,1.0,sustainable fashion clothes woman child,5,8,0.0,page big picture men woman child clothing easily find relevant clothes big picture design blue white believe blue header title logo,21,high,52,high,2,2,1,3,7,6,7,4,5,5,6,6,7,6,6.5,5.25,6.0,False
+379,28,2,2.0,5s,608.0,1.0,1.0,glass contact lens sunglass aimed holiday seemingly holiday,8,19,1.0,dominant picture big summer holiday advert bottom different category product website offered,12,med,24,high,0,2,0,2,7,5,6,3,2,3,2,3,3,2,4.5,2.5,4.0,False
+380,28,3,2.97,5s,102.0,1.0,1.0,backpack hiking gear shoe,4,6,0.0,sport hiking clothing different section clothing bottom easily find sport themed site matching brand extremely,15,high,32,high,1,2,0,2,4,7,7,6,6,6,7,6,7,6,6.0,6.25,6.5,False
+381,28,4,5.27,5s,184.0,1.0,1.0,weather forecast,2,4,0.0,white blue relatively outdated needed refresh design felt cheap outdated weather map left forecast hand side,16,high,44,high,2,2,2,4,4,3,3,2,5,2,3,3,6,3,4.5,2.5,3.0,False
+382,28,5,7.5,5s,173.0,1.0,1.0,item pet animal similar pet home box goody pet,9,19,0.5,design plenty room content easy read picture location center side bottom quickly identify sold page title product aimed pet animal,20,high,55,high,2,1,2,3,6,6,6,5,5,5,6,6,7,6,6.0,5.5,6.0,False
+383,28,6,8.0,5s,202.0,1.0,1.0,news coverage tech related story,5,8,0.0,cluttered kinda looked bunch advert news fill page leaf room white red design believe small top title reduces chance visitor remember site filled content read quickly therfore bit turn visitor page,31,high,86,high,2,1,2,3,2,2,1,2,2,3,4,1,1,3,1.5,3.0,1.5,False
+384,29,1,0.22,5s,118.0,1.0,0.0,sell,1,1,1.0,white neutral colour men woman child clothing diversity model,9,med,13,med,1,1,1,2,7,5,6,4,6,4,3,5,6,2,6.25,3.25,5.0,False
+385,29,2,2.0,5s,134.0,1.0,0.0,sell,1,1,0.5,white background blue text minimal text page picture caucasian family holiday,11,med,18,med,1,1,2,3,6,5,6,5,6,4,5,5,5,3,5.75,4.25,5.0,False
+386,29,3,2.97,5s,97.0,0.0,0.0,sell,1,1,0.0,footwear running sport definitely gear tiger blue white,8,med,16,med,1,1,1,2,4,5,6,4,5,5,6,5,7,5,5.5,5.0,5.0,False
+387,29,4,5.27,5s,107.0,1.0,0.0,provide,1,1,0.0,blue white branding map centre page daily weather update yunderneath,10,med,18,med,1,2,1,3,6,5,6,5,5,5,5,5,6,5,5.75,5.0,5.0,False
+388,29,5,7.5,5s,112.0,1.0,0.0,provide,1,1,1.0,yellow red different animal top search bar product underneath,9,med,14,med,1,3,1,4,6,5,6,4,5,4,5,5,5,5,5.5,4.5,5.0,False
+389,29,6,8.0,5s,108.0,1.0,0.0,unsure,1,1,0.0,text heavy overwhelming article photo story side looked smaller article,10,med,24,high,1,2,1,3,3,2,4,4,4,3,3,4,3,2,3.5,3.0,3.0,False
+390,30,1,0.22,5s,134.0,1.0,1.0,clothes,1,1,0.0,simple visuals made super easy corresponding collection accessed,8,med,17,med,1,0,1,1,6,3,5,4,6,2,2,4,4,2,5.25,2.5,3.5,False
+391,30,2,2.0,5s,110.0,0.0,0.0,travel,1,1,0.0,family child sitting laying sunglass,5,low,11,low,0,1,0,1,4,4,6,4,6,4,4,3,5,3,5.25,3.75,3.5,False
+392,30,3,2.97,5s,100.0,1.0,1.0,outdoor stuff,2,2,0.0,big monochrome cheetah serving purpose website aesthetically,7,med,14,med,0,1,0,1,3,4,4,2,4,4,2,5,2,5,3.25,3.25,4.5,False
+393,30,4,5.27,5s,102.0,1.0,1.0,forecast,1,1,0.0,vibey weather website looked bland wise job,7,med,15,med,0,0,1,1,6,4,5,4,5,2,4,4,4,2,5.0,3.0,4.0,False
+394,30,5,7.5,5s,98.0,0.5,0.5,bio sand,2,2,0.0,holding box logo website,4,low,19,med,1,1,0,1,1,2,2,2,3,3,2,2,1,2,1.75,2.25,2.0,False
+395,30,6,8.0,5s,100.0,1.0,1.0,tech news,2,2,0.0,photo girl phone caught attention text,6,med,17,med,1,1,1,2,2,2,2,2,4,4,1,3,4,2,3.0,2.25,2.5,False
+396,31,1,0.22,5s,94.0,1.0,1.0,clothing,1,1,0.0,child clothing colour yellow blue,5,low,8,low,1,1,1,2,3,5,5,5,5,4,4,4,5,3,4.5,4.0,4.5,False
+397,31,2,2.0,5s,89.0,1.0,1.0,holiday item sunglass,3,4,1.0,picture holiday beach lady sunglass,5,low,11,low,1,2,0,2,3,3,4,4,3,3,2,4,3,2,3.25,2.75,3.5,False
+398,31,3,2.97,5s,111.0,1.0,1.0,outdoor clothing apparel,3,4,0.0,large picture leopard running hilltop,5,low,9,low,1,1,0,1,6,5,5,4,4,4,4,4,5,4,5.0,4.0,4.5,False
+399,31,4,5.27,5s,76.0,1.0,1.0,weather article forecast,3,4,0.0,weather icon forecast information,4,low,5,low,1,2,0,2,2,2,2,4,4,3,2,3,4,2,3.0,2.75,2.5,False
+400,31,5,7.5,5s,79.0,1.0,1.0,supples,1,2,0.0,picture animal animal icon,4,low,5,low,0,1,0,1,4,3,3,3,3,3,2,2,3,1,3.25,2.25,2.5,False
+401,31,6,8.0,5s,92.0,1.0,1.0,tech news,2,2,0.0,news item tech picture coin news item battery girl phone,10,med,19,med,1,3,0,3,3,3,4,4,4,3,3,3,4,3,3.75,3.25,3.0,False
+402,32,1,0.22,5s,250.0,1.0,1.0,clothing,1,1,0.0,lot pastel colour white background remember light purple top screen place lower large picture girl yellow top picture bearded light blue bottom left woman yellow bottom centre boy bottom colour guessing picture link page word photo woman,37,high,104,high,3,4,1,5,6,5,6,6,6,5,5,6,6,5,6.0,5.25,5.5,False
+403,32,2,2.0,5s,190.0,1.0,1.0,looked optician,2,5,1.0,remember lot blue white background lot photo smiling face immediate website due picture centre family beach mention holiday mentioned contact lens believe picture lady putting contact eye led believe optician website sell glass contact,34,high,82,high,2,3,1,4,5,6,5,5,3,5,5,5,5,5,4.5,5.0,5.5,False
+404,32,3,2.97,5s,256.0,1.0,1.0,looked activewear,2,4,0.0,jumped snow leopard centre screen animal charity website picture walking snow website site looked standard clothing website beneath red text website top page blue menu bar horizontal screen aforementioned picture beneath smaller picture pay attention attention pulled back snow leopard,40,high,110,high,3,5,0,5,6,6,6,5,3,4,5,5,4,5,4.75,4.75,5.5,False
+405,32,4,5.27,5s,186.0,1.0,1.0,weather information,2,2,1.0,blue white background website title top left blue lettering beneath map divided different area different weather symbol particularly cloud area beneath map day forecast bar screen text menu column,29,high,62,high,3,4,1,5,6,4,6,4,6,4,2,5,5,3,5.75,3.25,4.5,False
+406,32,5,7.5,5s,158.0,1.0,1.0,product,1,2,0.0,moment figure site selling remember lot yellow small picture looked product brown rodent house remember great deal,17,high,49,high,1,1,1,2,3,2,3,3,5,2,3,2,3,2,3.5,2.5,2.0,False
+407,32,6,8.0,5s,159.0,1.0,1.0,technology news,2,2,0.0,picture distracted huge amount text screen assume site amount text news website remember word,14,high,50,high,1,2,1,3,2,2,3,4,3,3,2,2,2,2,2.5,2.75,2.0,False
+408,33,1,0.22,5s,103.0,1.0,1.0,sustainable clothing,2,2,0.0,page basic clear statement sell mission sustainable,7,med,21,med,1,1,1,2,7,7,7,4,6,4,3,6,7,4,6.75,3.75,6.5,False
+409,33,2,2.0,5s,124.0,1.0,1.0,eyewear,1,1,1.0,family looked beach made holiday company product simply laid banner section plain white blue,14,high,43,high,2,2,2,4,5,3,5,5,5,3,5,4,6,4,5.25,4.25,3.5,False
+410,33,3,2.97,5s,117.0,1.0,1.0,sportswear,1,1,0.0,large cover photo snow leopard running hiking advertising collection banner clothes shop section,13,high,25,high,1,3,0,3,6,7,4,6,1,5,7,5,4,6,3.75,6.0,6.0,False
+411,33,4,5.27,5s,150.0,1.0,1.0,weather report,2,3,1.0,daily forecast blue image indicate cloud rain article hand side weekly forecast area,13,high,36,high,3,4,0,4,3,2,6,3,4,2,2,2,5,2,4.5,2.25,2.0,False
+412,33,5,7.5,5s,162.0,1.0,1.0,garden animal product,3,6,1.0,website buy banner different animal bright enticing product bottom large banner red yellow stand drew attention,16,high,46,high,2,3,1,4,5,6,5,6,5,5,5,5,6,5,5.25,5.25,5.5,False
+413,33,6,8.0,5s,144.0,1.0,0.5,news site,2,2,0.0,basic informative targeted news investor main news article centre article side,11,med,23,med,2,2,1,3,5,3,7,4,6,4,2,5,7,2,6.25,3.0,4.0,False
+414,34,1,0.22,5s,96.0,1.0,1.0,sustainable fashion,2,2,0.0,picture adult child modeling product presumably product yellow contrasted white grey website theming style company motto sustainable fashion,18,high,41,high,2,3,1,4,6,4,5,4,5,4,3,4,6,4,5.5,3.75,4.0,False
+415,34,2,2.0,5s,111.0,1.0,1.0,eyewear glass contact,3,4,0.0,page focus sunglass glass contact middle page link blue white theming style company logo top left site clean busy feature,20,high,42,high,2,2,2,4,6,5,5,5,5,5,4,5,6,4,5.5,4.5,5.0,False
+416,34,3,2.97,5s,90.0,1.0,1.0,outdoors wear gear,3,4,0.0,blue ish theming colour big picture snow leopard screen horizontal top bar containing link product section largely clean professional theme,20,high,37,high,1,2,2,4,5,5,6,5,5,5,4,5,6,5,5.5,4.75,5.0,False
+417,34,4,5.27,5s,100.0,1.0,1.0,weather forecast,2,4,1.0,white light blue theming weather report spanning thursday tuesday page relatively clean busy largely easy read digest,17,high,33,high,1,1,2,3,6,4,6,4,6,4,3,5,6,3,6.0,3.5,4.5,False
+418,34,5,7.5,5s,89.0,1.0,1.0,animal supply,2,3,0.0,company logo top animal food product presented page middle colour scheme white brown,13,high,27,high,1,2,1,3,3,2,3,2,4,2,4,3,4,3,3.5,2.75,2.5,False
+419,34,6,8.0,5s,125.0,1.0,1.0,appears provide tech news information,5,8,0.0,black white theming clean link scattered page side distinct section read site largely contained news tech industry,17,high,36,high,2,2,1,3,5,5,5,4,6,5,3,5,5,4,5.25,4.0,5.0,False
+420,37,1,0.22,5s,235.0,1.0,1.0,clothes woman child,3,6,0.0,round logo top left box centre picture picture woman picture child effect pastel shade,14,high,43,high,2,2,1,3,7,7,6,5,7,6,4,5,6,4,6.5,4.75,6.0,True
+421,37,2,2.0,5s,291.0,1.0,1.0,glass contact lens sunglass,4,5,0.0,logo blue box colourful photograph indicating sell glass contact lens sunglass contact lens box close putting contact lens sunglass box showed wearing sunglass glass box showed wearing glass,28,high,47,high,3,5,0,5,7,7,7,6,6,7,5,7,7,6,6.75,6.0,7.0,False
+422,37,3,2.97,5s,183.0,1.0,1.0,bag running gear equipment,4,4,0.0,logo big sort square bottom item,6,med,13,med,1,2,0,2,2,6,6,4,5,5,4,5,6,4,4.75,4.25,5.5,False
+423,37,4,5.27,5s,168.0,1.0,1.0,weather forcasts,2,3,1.0,primarily blue white box showing weather map symbol rain box indicating day weather forecast orange box rain,17,high,36,high,2,3,1,4,6,4,7,4,7,4,4,7,7,4,6.75,4.0,5.5,False
+424,37,5,7.5,5s,220.0,1.0,0.5,petfood,1,1,0.0,red logo picture food big red circle minute written,9,med,18,med,1,3,0,3,2,2,6,2,4,3,3,4,2,2,3.5,2.5,3.0,False
+425,37,6,8.0,5s,185.0,1.0,0.0,idea,1,2,0.0,lot box photo woman shocked mouth open ariels building,9,med,19,med,1,2,0,2,1,1,2,4,7,4,2,4,2,2,3.0,3.0,2.5,False
+426,39,1,0.22,5s,166.0,0.0,1.0,clothes,1,1,0.0,woman boy girl yellow neutral clothes sustainable,7,med,11,low,1,1,0,1,6,5,6,5,5,4,3,6,7,5,6.0,4.25,5.5,False
+427,39,2,2.0,5s,152.0,1.0,1.0,glass,1,1,1.0,colourful bright sunny sky mum child wearing sunglass,8,med,10,low,1,1,1,2,6,6,7,6,5,6,5,7,6,6,6.0,5.75,6.5,False
+428,39,3,2.97,5s,140.0,1.0,1.0,sport clothing foot ware,4,4,1.0,clear wild male female hiker,5,low,11,low,1,2,1,3,6,6,6,6,6,6,5,7,6,6,6.0,5.75,6.5,False
+429,39,4,5.27,5s,167.0,1.0,1.0,weather page,2,2,1.0,weather coming day bright blue white cloud,7,med,11,low,1,1,1,2,5,6,7,5,6,5,5,7,6,5,6.0,5.0,6.5,False
+430,39,5,7.5,5s,187.0,1.0,0.5,animal feed,2,2,0.0,lot different product lot writing colourful animal,7,med,11,low,1,1,1,2,2,4,4,3,5,2,3,2,3,4,3.5,3.0,3.0,False
+431,39,6,8.0,5s,203.0,1.0,0.5,industry news,2,2,0.0,busy lot writing focus,4,low,15,med,0,0,1,1,1,3,4,2,4,3,2,3,1,3,2.5,2.5,3.0,False
+432,40,1,0.22,5s,206.0,1.0,1.0,substainable clothing family,3,6,0.0,model child woman differing age group felt younger side clothes worn colour model upbeat clothes felt cheerful current bright primary colour,21,high,49,high,2,2,1,3,7,5,6,5,7,5,2,3,7,2,6.75,3.5,4.0,False
+433,40,2,2.0,5s,200.0,1.0,1.0,sunglass reading glass contact lens,5,5,0.0,beach orientated scene remember bright positive smiling sand water adult child wearing glass sunglass wearing bright colour adult sport type shirt felt cheerful positve general feel beach background nice feel projected image,32,high,70,high,1,2,0,2,7,6,7,6,7,6,5,6,7,5,7.0,5.5,6.0,False
+434,40,3,2.97,5s,204.0,0.0,1.0,gather sport apparell word clothing running,6,20,0.0,remember lovely picture snow leopard dominate part webpage image text horizontal line picture bottom nature based feel site felt nature based scenic picture contrasting colour forest water wrong feel felt outdoorsy,31,high,79,high,2,2,1,3,6,7,6,7,6,7,7,7,6,7,6.0,7.0,7.0,False
+435,40,4,5.27,5s,204.0,1.0,1.0,believe website detailed global weather forcasts breakdown temperature rain fog,10,17,0.0,graphic opposed real world based image blue term colour pallete touch gold lot text dispersed graphic felt needed compliment graphic lot practical icon represent weather umbrella cloud felt detailed,29,high,65,high,2,1,3,4,3,5,7,5,7,6,5,6,5,5,5.5,5.25,5.5,True
+436,40,5,7.5,5s,320.0,1.0,1.0,particularly food animal feel overly clear impression fun packaged food differing type felt site based style product interesting wanted find,20,61,1.0,felt lot picture cardboard type boxed designed white gold black pawprints felt represented lot different animal fun product pet felt site aimed child felt busy fun organised struggle remember specific short view general impression,34,high,73,high,1,2,1,3,3,6,6,6,6,6,7,6,6,6,5.25,6.25,6.0,False
+437,40,6,8.0,5s,267.0,1.0,1.0,information website providing story review opinion peices general information based world tech,12,23,1.0,felt made lot text busy keen convuluted word feel lot white space seperation picture photo real world item place opposed graphic felt randomness jumble paragraph list page,27,high,70,high,2,1,3,4,2,2,2,3,2,3,3,3,2,3,2.0,3.0,2.5,False
+438,41,1,0.22,5s,109.0,1.0,1.0,sell woman child clothing,4,7,0.0,simple attractive picture muted colour picture woman child company clothing,10,med,25,high,2,1,2,3,6,6,6,6,4,5,5,6,6,6,5.5,5.5,6.0,False
+439,41,2,2.0,5s,130.0,1.0,1.0,sell eyewear product glass sunglass,5,9,0.0,blue white bright image text text summer ready picture smiling woman wearing sunglass,13,high,22,med,2,2,2,4,5,4,5,4,6,4,3,4,5,3,5.25,3.5,4.0,False
+440,41,3,2.97,5s,100.0,1.0,1.0,sell outdoor gear,3,6,0.0,remember picture leopard hiking hill colour blue white picture bottom including backpack,12,med,36,high,3,3,1,4,4,5,5,4,5,5,4,4,5,3,4.75,4.0,4.5,False
+441,41,4,5.27,5s,91.0,1.0,1.0,weather forecast,2,4,0.0,typical weather forecast website close weather map top page weekly forecast smaller image bottom alert update page,17,high,39,high,2,3,0,3,3,4,5,4,6,4,4,4,4,4,4.5,4.0,4.0,False
+442,41,5,7.5,5s,83.0,1.0,1.0,sell related product,3,5,1.0,looked garish yellow standout colour link different animal category top,10,med,19,med,1,1,2,3,3,2,4,2,4,2,2,2,3,4,3.5,2.5,2.0,False
+443,41,6,8.0,5s,95.0,1.0,1.0,tech related news,3,4,0.0,column lot small black text picture,6,med,15,med,1,1,1,2,1,3,3,4,4,4,3,2,2,3,2.5,3.5,2.5,False
+444,42,1,0.22,5s,159.0,1.0,1.0,sustainable fashion,2,2,0.0,website selling sustainable fashion,4,low,5,low,0,1,0,1,4,4,4,4,7,5,4,4,4,4,4.75,4.25,4.0,False
+445,42,2,2.0,5s,123.0,1.0,1.0,eye wear,2,2,1.0,website selling eyewear entire family,5,low,8,low,0,0,0,0,5,5,5,5,5,5,5,5,5,5,5.0,5.0,5.0,False
+446,42,3,2.97,5s,129.0,1.0,1.0,outdoor apparel,2,2,0.0,website selling outdoor clothing,4,low,5,low,0,0,0,0,5,5,5,5,5,6,6,5,5,5,5.0,5.5,5.0,False
+447,42,4,5.27,5s,156.0,1.0,1.0,weather information,2,2,0.0,website detailing daily weather,4,low,6,low,0,0,0,0,5,5,5,5,6,4,5,5,5,5,5.25,4.75,5.0,False
+448,42,5,7.5,5s,166.0,1.0,0.5,animal feed,2,2,0.5,selling animal feed,3,low,3,low,0,0,0,0,1,1,4,1,1,1,1,1,1,1,1.75,1.0,1.0,False
+449,42,6,8.0,5s,138.0,1.0,0.0,alternative power,2,2,1.0,website promoting alternative power,4,low,5,low,0,0,0,0,2,2,3,4,4,4,4,4,3,4,3.0,4.0,3.0,False
+450,43,1,0.22,5s,345.0,1.0,1.0,sustainable clothing woman child,4,7,0.0,company logo top left message wesbite sustainable fashion girl wearing yellow shirt underneath picture woman kid respective product product,19,high,46,high,2,4,0,4,6,5,6,5,6,5,5,6,6,5,6.0,5.0,5.5,False
+451,43,2,2.0,5s,134.0,1.0,0.0,clear summer holiday item,4,9,1.0,image kid adult question ready vacation hand side underneath image option sport glass sunglass contact lens,16,high,33,high,2,3,0,3,3,4,4,4,4,4,3,3,3,5,3.5,4.0,3.5,False
+452,43,3,2.97,5s,224.0,1.0,1.0,sport equipment specifically outdoor sport hiking winter sport,8,12,1.0,image mountain lion runner mountain message collection hand side underneath promotion category clothes footwear running,15,high,36,high,2,3,0,3,7,3,4,3,4,3,2,3,3,3,4.5,2.75,3.0,False
+453,43,4,5.27,5s,281.0,1.0,1.0,information weather prague image forecast day hand forecast day,9,28,1.0,top page search bar image picture weather currently prague date forecast rest week image weather article hand side article iceberg disappearing,21,high,55,high,3,4,0,4,5,4,6,4,5,4,4,5,6,4,5.5,4.0,4.5,False
+454,43,5,7.5,5s,225.0,1.0,1.0,item toy food sand,4,8,1.0,mega zoo logo top left underneath large yellow black banner pick branch office online item underneath water fountain water pump,20,high,43,high,3,3,0,3,5,3,4,3,4,3,3,3,3,3,4.0,3.0,3.0,False
+455,43,6,8.0,5s,302.0,1.0,0.5,news energy living cost government sport,6,7,1.0,top page different category choose mobile mania security review video transport future hand side read news article left daily update middle article,22,high,52,high,3,4,0,4,4,3,5,3,4,4,3,5,5,2,4.5,3.0,4.0,False
+456,44,1,0.22,5s,130.0,1.0,1.0,clothing website woman child,4,8,0.0,website woman child wearing clothing,5,low,12,med,1,1,0,1,7,7,7,7,4,6,6,6,6,5,6.0,6.0,6.5,False
+457,44,2,2.0,5s,108.0,1.0,1.0,glass contact,2,3,0.0,ad glass contact woman wearing glass,6,med,11,low,0,1,0,1,7,7,7,7,2,7,7,7,7,7,5.75,7.0,7.0,False
+458,44,3,2.97,5s,184.0,1.0,1.0,selling outdoor wear,3,4,0.0,men running hill big lion ad footwear clothing,8,med,18,med,1,2,0,2,6,7,6,6,4,6,6,6,5,6,5.25,6.0,6.5,False
+459,44,4,5.27,5s,129.0,1.0,1.0,weather page,2,6,0.0,weather page showing day rain,5,low,9,low,0,1,0,1,6,6,6,6,6,6,6,6,6,6,6.0,6.0,6.0,False
+460,44,5,7.5,5s,157.0,1.0,1.0,item,1,2,0.0,different item,2,low,6,low,0,0,0,0,3,5,4,4,3,4,5,5,4,5,3.5,4.5,5.0,False
+461,44,6,8.0,5s,238.0,1.0,0.0,,0,2,0.0,confusing selling tech writing small alot crammed,7,med,26,high,1,0,2,2,1,2,1,4,1,4,4,2,1,4,1.0,4.0,2.0,False
+462,45,1,0.22,5s,46.0,1.0,1.0,clothing,1,1,1.0,cute clothing,2,low,2,low,0,0,0,0,7,6,7,6,6,5,5,6,6,5,6.5,5.25,6.0,False
+463,45,2,2.0,5s,53.0,1.0,0.5,eyesight,1,1,1.0,different glass contact lens,4,low,4,low,0,1,0,1,5,5,6,3,5,2,4,5,5,3,5.25,3.0,5.0,False
+464,45,3,2.97,5s,79.0,1.0,1.0,mountain gear,2,2,1.0,snowlepoard different type item,4,low,7,low,0,2,0,2,5,6,6,5,6,5,5,6,6,6,5.75,5.25,6.0,False
+465,45,4,5.27,5s,54.0,1.0,1.0,weather forecast,2,2,1.0,image colour information,3,low,3,low,0,0,0,0,6,5,7,5,7,4,4,4,6,4,6.5,4.25,4.5,False
+466,45,5,7.5,5s,81.0,1.0,1.0,animal accessory food,3,4,0.0,variety animal guessing buy,4,low,11,low,0,0,0,0,5,5,5,4,6,4,4,6,6,5,5.5,4.25,5.5,False
+467,45,6,8.0,5s,74.0,1.0,1.0,information technology,2,3,0.0,lot information column article wordy,5,low,7,low,0,1,2,3,2,2,4,4,5,4,2,2,2,1,3.25,2.75,2.0,False
+468,46,1,0.22,5s,95.0,1.0,1.0,sell clothes,2,3,0.0,child model front page sign price offered woman clothing aswell,10,med,30,high,1,2,0,2,7,7,6,7,5,5,5,6,7,6,6.25,5.75,6.5,False
+469,46,2,2.0,5s,171.0,1.0,0.0,,0,0,1.0,bright vibrant web page made website sell kind holiday package family sell clothes accessory holiday slogan ready vacation concluding sell,20,high,49,high,1,1,1,2,6,7,5,6,4,4,6,6,6,6,5.25,5.5,6.5,False
+470,46,3,2.97,5s,143.0,0.0,1.0,hiking sport clothing,3,4,0.0,animal looked white jaguar offered different type clothing retained website,10,med,29,high,1,2,0,2,6,3,6,3,6,4,3,5,6,5,6.0,3.75,4.0,False
+471,46,4,5.27,5s,144.0,1.0,1.0,website show weather forecast,4,7,0.0,graphic middle different weather forecast looked website,7,med,26,high,1,2,0,2,6,2,5,2,6,2,3,4,6,2,5.75,2.25,3.0,False
+472,46,5,7.5,5s,140.0,0.5,1.0,accessory,1,2,0.0,hard figure company selling clear indication selling read item sell picture potentially sell,13,high,42,high,0,0,0,0,6,2,2,1,2,2,2,2,2,2,3.0,1.75,2.0,False
+473,46,6,8.0,5s,181.0,1.0,0.5,provide news article,3,4,0.0,looked typical news page big headline news article exaggerated thumbnail simplicity typical read catch mutual interested topic continue reading article boring,21,high,54,high,2,2,2,4,7,4,5,4,5,3,3,5,6,4,5.75,3.5,4.5,False
+474,47,1,0.22,5s,85.0,1.0,1.0,clothes kid adult,3,5,0.0,website selling clothes adult child,5,low,8,low,0,1,0,1,5,4,5,4,4,4,3,4,4,3,4.5,3.5,4.0,False
+475,47,2,2.0,5s,134.0,1.0,1.0,travel sunglass wear,3,4,1.0,simple family picture sunglass,4,low,7,low,0,1,1,2,6,5,6,5,6,5,3,5,5,4,5.75,4.25,5.0,False
+476,47,3,2.97,5s,139.0,0.5,1.0,mountaineering gear,2,2,0.0,animal clothes boot trekking,4,low,12,med,1,2,0,2,5,5,5,5,5,5,3,5,5,4,5.0,4.25,5.0,False
+477,47,4,5.27,5s,86.0,1.0,1.0,weather forecast,2,2,0.0,weather forecast website national international,5,low,6,low,0,0,0,0,3,3,3,4,4,3,3,3,3,3,3.25,3.25,3.0,False
+478,47,5,7.5,5s,110.0,1.0,1.0,product animal,2,3,0.0,selling product animal pet,4,low,5,low,0,0,0,0,4,3,4,3,5,3,3,3,3,4,4.0,3.25,3.0,False
+479,47,6,8.0,5s,65.0,1.0,0.5,news,1,1,0.0,news webpage,2,low,2,low,0,0,0,0,3,3,4,3,4,3,3,3,3,3,3.5,3.0,3.0,False
+480,48,1,0.22,5s,78.0,1.0,1.0,sustainable fashion,2,2,0.0,lovely clear information nice simple design,6,med,11,low,0,0,1,1,7,7,7,7,7,6,7,7,7,7,7.0,6.75,7.0,False
+481,48,2,2.0,5s,74.0,1.0,1.0,sunglass glass contact lens,4,4,0.0,fairly clear website design,4,low,5,low,0,0,1,1,6,6,7,7,7,6,6,6,4,5,6.0,6.0,6.0,False
+482,48,3,2.97,5s,73.0,0.0,1.0,sport gear,2,2,0.0,cheetah handsome,2,low,8,low,0,1,0,1,4,7,7,7,7,7,7,7,6,7,6.0,7.0,7.0,False
+483,48,4,5.27,5s,89.0,1.0,1.0,weather forecast,2,2,0.0,pleasant weather forecast website,4,low,6,low,0,0,0,0,7,7,7,6,7,6,6,7,7,6,7.0,6.0,7.0,False
+484,48,5,7.5,5s,79.0,1.0,0.0,unclear second,2,3,0.0,busy information glance,3,low,13,med,0,0,1,1,2,1,4,2,4,2,3,3,1,2,2.75,2.25,2.0,False
+485,48,6,8.0,5s,85.0,1.0,0.5,technical spec,2,2,0.0,information process second,3,low,9,low,0,0,0,0,1,5,4,5,6,7,5,5,2,4,3.25,5.25,5.0,False
+486,2,1,0.22,10s,70.0,1.0,1.0,sustainable fashion,2,2,0.0,men woman childrens clothing,4,low,5,low,0,1,0,1,5,5,5,5,4,4,3,4,5,3,4.75,3.75,4.5,False
+487,2,2,2.0,10s,85.0,1.0,1.0,gkasses,1,1,0.0,sunglasses prescription glass,3,low,3,low,0,1,0,1,6,4,5,4,4,4,3,4,4,3,4.75,3.5,4.0,False
+488,2,3,2.97,10s,82.0,1.0,1.0,outdoor clothing accessory,3,4,0.0,remember picture tiger,3,low,10,low,0,1,0,1,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+489,2,4,5.27,10s,244.0,1.0,1.0,weather forecast,2,2,0.0,weather forecast,2,low,2,low,0,0,0,0,4,4,5,4,5,4,4,5,3,4,4.25,4.0,4.5,True
+490,2,5,7.5,10s,67.0,1.0,1.0,product,1,2,1.0,product,1,low,4,low,0,0,0,0,4,5,4,4,4,4,4,5,5,5,4.25,4.25,5.0,False
+491,2,6,8.0,10s,65.0,1.0,0.5,news article,2,2,0.0,remember,1,low,2,low,0,0,0,0,2,3,3,4,3,4,4,3,2,3,2.5,3.75,3.0,False
+492,3,1,0.22,10s,89.0,1.0,1.0,sustainable clothing,2,2,1.0,detail picture page,3,low,8,low,0,0,0,0,6,6,7,4,5,4,3,5,5,4,5.75,3.75,5.5,False
+493,3,2,2.0,10s,71.0,0.0,1.0,glass contact lens,3,4,1.0,holiday making covered glass sunglass contact,6,med,15,med,1,1,0,1,5,5,5,5,4,3,3,4,5,3,4.75,3.5,4.5,False
+494,3,3,2.97,10s,60.0,0.0,0.0,,0,2,0.0,remember lot information,3,low,8,low,0,0,0,0,3,3,4,3,3,3,3,4,5,3,3.75,3.0,3.5,False
+495,3,4,5.27,10s,175.0,1.0,1.0,weather info,2,2,1.0,weather america different weather forcasts,5,low,9,low,0,0,0,0,5,4,3,5,5,3,5,4,5,5,4.5,4.5,4.0,False
+496,3,5,7.5,10s,109.0,0.5,1.0,food toy animal,3,5,0.0,logo different page big top,5,low,10,low,0,1,0,1,5,6,4,2,5,2,3,3,5,3,4.75,2.5,4.5,False
+497,3,6,8.0,10s,122.0,1.0,1.0,news website technology otehr update,5,7,1.0,picture area middle article side,5,low,13,med,1,2,0,2,6,5,3,4,3,6,4,4,3,4,3.75,4.5,4.5,False
+498,4,1,0.22,10s,122.0,1.0,1.0,sustainable fashion,2,2,0.0,simple sustainable clothing site major section men woman child clothes looked pajama lot faded pastel colour blonde woman looked kid beard,21,high,34,high,2,2,1,3,6,5,7,5,7,5,2,7,7,4,6.75,4.0,6.0,False
+499,4,2,2.0,10s,96.0,0.5,1.0,glass,1,1,0.0,section glass contact lens sunglass respectively nearest store prague appointment button top,12,med,18,med,2,3,0,3,6,5,7,5,7,5,3,6,7,4,6.75,4.25,5.5,False
+500,4,3,2.97,10s,103.0,1.0,1.0,outdoors gear,2,2,1.0,snow leopard running hill open backpack section bottom collection lot white blue,12,med,25,high,2,5,1,6,5,5,6,4,6,5,3,6,6,4,5.75,4.0,5.5,False
+501,4,4,5.27,10s,91.0,1.0,1.0,weather report,2,2,1.0,showing weather prague degree weather thursday cold rain notice top,10,med,20,med,2,3,0,3,2,2,7,3,3,3,1,4,2,1,3.5,2.0,3.0,False
+502,4,5,7.5,10s,110.0,1.0,1.0,animal product,2,2,0.0,section different animal dog cat small animal forget word terrasctium wrong online delivery minute,14,high,36,high,2,3,0,3,3,2,2,2,2,3,2,3,2,2,2.25,2.25,2.5,False
+503,4,6,8.0,10s,112.0,1.0,0.5,news site,2,6,0.0,text based article looked focused tech problem operator money article energy storage solution,13,high,21,med,1,2,1,3,3,2,3,2,3,2,1,2,5,1,3.5,1.5,2.0,False
+504,7,1,0.22,10s,129.0,1.0,1.0,clothing,1,1,0.0,page selling clothing woman child looked sell pyjama page built neutrul colour pain picture child wearing clothing woman allowed select woman childrens clothing company logo blue circle,27,high,65,high,3,3,1,4,6,6,6,6,5,4,5,6,6,5,5.75,5.0,6.0,False
+505,7,2,2.0,10s,106.0,1.0,1.0,sell sunglass sport glass contact lens,6,7,1.0,page picture adult child laying beach section sport glass sun glass contact lens close picture product menu top allowing select section,21,high,44,high,2,4,0,4,6,5,6,4,6,4,5,6,6,3,6.0,4.0,5.5,False
+506,7,3,2.97,10s,114.0,1.0,1.0,sport gear,2,2,0.0,sport page large picture middle white lion tiger walking mountain top page generic menu bar allowing click different tab bottom section different sport,23,high,50,high,2,3,0,3,5,5,6,5,6,4,5,6,6,4,5.75,4.5,5.5,False
+507,7,4,5.27,10s,131.0,1.0,1.0,weather forcast different day location,5,9,0.0,page called weathery blue web page middle left hand side map temepratures different location bottom different day week high low temperature information thing rain cloud top prague,27,high,66,high,3,4,1,5,4,5,6,5,6,5,5,6,5,5,5.25,5.0,5.5,False
+508,7,5,7.5,10s,137.0,1.0,1.0,food animal,2,3,0.0,page company called mega zoo top menu bar allowed select different type animal large advertisement photo bottom page different food piece advertised,22,high,53,high,3,4,0,4,4,2,5,4,5,4,3,5,5,4,4.75,3.75,3.5,False
+509,7,6,8.0,10s,128.0,0.5,0.5,news article weather,3,6,0.0,page news page lot different news article listed left hand side top page menu bar navigate different topic prague weather top middle page story day picture,26,high,58,high,3,4,0,4,2,3,5,5,5,5,5,4,3,3,3.75,4.5,3.5,False
+510,8,1,0.22,10s,104.0,1.0,1.0,sustainable clothing,2,2,0.0,offer sustainable clothing woman child picture different category,8,med,19,med,1,2,0,2,5,3,5,4,4,3,3,4,4,2,4.5,3.0,3.5,False
+511,8,2,2.0,10s,104.0,1.0,1.0,sunglass sport glass contact,4,4,0.0,sold different type eye product holiday sport purpose,8,med,14,med,0,1,0,1,4,3,5,3,5,3,3,4,5,3,4.75,3.0,3.5,False
+512,8,3,2.97,10s,132.0,1.0,1.0,mountain outdoor sporting equipment,4,4,1.0,large picture snow leopard shop offering outdoor equipment shoe backpack,10,med,18,med,1,2,0,2,5,5,6,5,4,5,5,5,6,5,5.25,5.0,5.0,False
+513,8,4,5.27,10s,109.0,1.0,1.0,weather forecast,2,3,1.0,showing weather area prague different article climate,7,med,16,med,1,2,0,2,7,4,5,5,7,5,3,6,7,4,6.5,4.25,5.0,False
+514,8,5,7.5,10s,108.0,1.0,1.0,product animal,2,4,0.0,different animal top offered minute pick time,7,med,17,med,1,2,0,2,2,2,2,3,3,3,5,3,3,5,2.5,4.0,2.5,False
+515,8,6,8.0,10s,135.0,1.0,1.0,news website relating technology medicine,5,10,0.0,picture article topic battery cancer government policy,7,med,15,med,1,1,0,1,6,5,6,5,6,4,4,6,7,5,6.25,4.5,5.5,False
+516,9,1,0.22,10s,174.0,1.0,1.0,clothes woman child,3,6,1.0,large picture girl yellow hedghog shirt top page picture striped shirt woman boy presumably leading different section website list different department left hand side,24,high,65,high,3,3,0,3,6,6,6,6,5,7,5,6,6,5,5.75,5.75,6.0,True
+517,9,2,2.0,10s,118.0,1.0,1.0,eyecare sunglass contact lens glass,5,5,1.0,large picture family holiday wearing sunglass feature link section contact lens sunglass section remember,14,high,31,high,2,3,0,3,5,5,5,5,4,4,4,5,5,4,4.75,4.25,5.0,False
+518,9,3,2.97,10s,116.0,1.0,1.0,sport wear specifically hill mountain activity,6,7,0.0,large picture big snow leopard superimposed top picture running hill mountain link different sporting shoe accessory,16,high,34,high,2,3,0,3,5,4,5,4,4,4,4,5,4,4,4.5,4.0,4.5,False
+519,9,4,5.27,10s,124.0,1.0,1.0,weather forecast weather news,4,5,0.0,large weather map showing current weather feature page tab day weather link latest weather news summary forecast prague coming day,20,high,55,high,3,4,0,4,4,4,6,4,5,4,4,5,5,4,5.0,4.0,4.5,False
+520,9,5,7.5,10s,93.0,1.0,1.0,food accessory,2,4,0.0,lot lot different section click,5,low,14,med,0,0,0,0,5,3,5,3,4,3,4,4,3,5,4.25,3.75,3.5,False
+521,9,6,8.0,10s,117.0,1.0,1.0,news technology,2,4,0.0,lot different story latest news technology development live ticker side latest news industry section side showing read story website,19,high,40,high,2,2,0,2,3,4,5,4,4,4,4,4,5,4,4.25,4.0,4.0,False
+522,10,1,0.22,10s,170.0,1.0,1.0,sustainable clothing woman child,4,7,0.0,made image related category woman child visible,7,med,20,med,1,1,0,1,5,5,4,5,4,4,3,4,4,3,4.25,3.75,4.5,False
+523,10,2,2.0,10s,174.0,1.0,1.0,eyewear eyeglass sunglass contact lens,5,6,0.0,image bottom page category themed draw attention away logo plain top page particularly memorable,14,high,25,high,1,2,0,2,5,4,4,4,4,4,4,4,5,4,4.5,4.0,4.0,False
+524,10,3,2.97,10s,169.0,1.0,1.0,outdoors sport clothing accessory,4,6,0.0,image cheetah individual heading mountain organised list category top bar attractive image link bottom category,15,high,31,high,1,3,0,3,7,6,7,7,6,6,6,6,7,6,6.75,6.25,6.0,False
+525,10,4,5.27,10s,176.0,1.0,1.0,weather forecast weather related news,5,7,1.0,made large image showing weather forecast draw attention weather news article visible small box side link top page recall content attention drawn large forecast graphic,25,high,38,high,2,3,0,3,5,4,4,3,4,2,3,4,4,4,4.25,3.0,4.0,False
+526,10,5,7.5,10s,141.0,1.0,1.0,animal product,2,3,0.0,structured category link related type top attractive image individual product plain organised,12,med,21,med,1,2,1,3,7,5,7,3,6,3,4,5,7,4,6.75,3.5,5.0,False
+527,10,6,8.0,10s,149.0,1.0,0.5,sort news website,3,10,0.0,crowded text unattractive lot news article real structure determined immediacy,10,med,22,med,2,1,3,4,2,2,3,1,2,1,1,2,3,2,2.5,1.25,2.0,False
+528,11,1,0.22,10s,86.0,1.0,1.0,sell sustainable clothing,3,3,0.0,clothing website picture different different age gender,7,med,17,med,0,1,0,1,7,6,6,7,6,6,3,6,7,4,6.5,5.0,6.0,False
+529,11,2,2.0,10s,100.0,1.0,1.0,contact lens different type glass,5,9,1.0,picture wearing different type glass different setting sell,8,med,24,high,1,1,0,1,6,5,5,4,4,5,5,5,6,5,5.25,4.75,5.0,False
+530,11,3,2.97,10s,119.0,1.0,1.0,activewear,1,1,1.0,clothing outdoor website big leopard front screen background running hiking hill,11,med,29,high,1,2,0,2,4,5,4,5,5,6,6,5,5,6,4.5,5.75,5.0,False
+531,11,4,5.27,10s,84.0,1.0,1.0,tell weather,2,4,1.0,showed weather rainfall thursday prague,5,low,11,low,1,1,0,1,6,5,6,4,6,4,4,6,7,5,6.25,4.25,5.5,False
+532,11,5,7.5,10s,122.0,1.0,1.0,toy supply pet,3,7,1.0,website selling different product animal pet lot different section different type animal section food toy necessity,16,high,31,high,0,1,0,1,5,5,6,5,5,4,5,5,6,5,5.5,4.75,5.0,False
+533,11,6,8.0,10s,92.0,1.0,0.5,article,1,4,0.0,list article centre page,4,low,14,med,0,1,0,1,3,1,4,4,5,2,1,3,6,1,4.5,2.0,2.0,False
+534,12,1,0.22,10s,146.0,1.0,1.0,sustainable fashion woman child,4,6,1.0,small top looked title follow question simple design clealry laid department woman child understand info page,16,high,49,high,2,2,1,3,7,5,6,5,6,4,2,4,6,3,6.25,3.5,4.5,False
+535,12,2,2.0,10s,146.0,1.0,1.0,eyewear glass sunglass contact lens,5,5,1.0,seasonal advertising summer large photo family beach wearing sunglass promoting contact lens section astronomy different page,16,high,42,high,2,3,0,3,6,5,4,4,6,4,2,4,5,4,5.25,3.5,4.5,False
+536,12,3,2.97,10s,140.0,1.0,1.0,outdoor clothing equipment,3,4,1.0,big snow leopard photo badly photoshopped running sunny mountain summer fall offer category bottom,14,high,25,high,2,3,0,3,3,2,3,4,4,3,3,4,3,2,3.25,3.0,3.0,False
+537,12,4,5.27,10s,129.0,1.0,1.0,info weather prague,3,6,1.0,mix news weather article hand side info prague weather map blue white design simple graphic visualise weather change,18,high,26,high,2,3,1,4,5,5,6,4,5,4,3,4,6,4,5.5,3.75,4.5,False
+538,12,5,7.5,10s,301.0,1.0,1.0,supply,1,2,0.0,lot info page bit overwhelming selling zoo shop product supplier,10,med,35,high,1,0,1,1,1,2,2,4,4,3,3,4,1,2,2.0,3.0,3.0,False
+539,12,6,8.0,10s,140.0,1.0,0.5,tech product,2,2,0.0,looked news site read article hand side plain design black lettering white bakground article dark green picture looked click bait related article woman gasping phone,25,high,43,high,2,2,2,4,2,2,4,4,6,4,1,4,5,2,4.25,2.75,3.0,False
+540,13,1,0.22,10s,96.0,1.0,1.0,sustainable clothing,2,2,1.0,simple design pastel colour section woman kid,7,med,16,med,1,1,1,2,6,6,6,5,6,5,5,6,6,5,6.0,5.0,6.0,False
+541,13,2,2.0,10s,97.0,1.0,1.0,glass sunglass eye examination,4,5,0.0,website bit confusing time realize blue white color structured,9,med,25,high,1,0,2,2,2,3,2,2,2,2,2,2,2,3,2.0,2.25,2.5,False
+542,13,3,2.97,10s,117.0,1.0,1.0,shop outdoor clothing shoe equipment,5,7,0.0,white black colour picture snow leopard hiking,7,med,19,med,1,1,1,2,5,6,6,5,5,5,5,5,5,5,5.25,5.0,5.5,False
+543,13,4,5.27,10s,123.0,1.0,1.0,weather forecast info,3,11,0.0,blue showing weather forecast czech republic prague,7,med,14,med,1,1,1,2,5,4,5,3,4,3,3,4,4,4,4.5,3.25,4.0,False
+544,13,5,7.5,10s,99.0,1.0,1.0,shop stuff pet,3,5,0.0,website relatively simple big picture bright yellow red colour showing offer,11,med,18,med,1,1,1,2,5,3,4,3,4,3,3,4,4,3,4.25,3.0,3.5,False
+545,13,6,8.0,10s,106.0,1.0,1.0,probably provide information article technology,5,10,0.0,website full text difficult catch short time,7,med,18,med,0,0,1,1,2,2,2,2,4,3,2,2,3,2,2.75,2.25,2.0,False
+546,14,1,0.22,10s,115.0,1.0,1.0,sustainable clothes,2,2,1.0,link woman child wear clothing range confirmation clothes website sustainable,10,med,24,high,1,2,0,2,4,5,6,4,6,5,4,4,6,4,5.5,4.25,4.5,False
+547,14,2,2.0,10s,102.0,1.0,1.0,sunglass,1,1,1.0,homepage gunglasses company image focusing vacation sun glass smaller image sport sunglass option top arrange eye test,17,high,29,high,2,3,0,3,4,4,5,4,5,3,4,4,5,3,4.75,3.5,4.0,False
+548,14,3,2.97,10s,146.0,1.0,1.0,sport clothing equipment,3,4,1.0,home page sport equipment provider image giving impression extreme sport mountain climbing menu option different product top photo image linking latest fall range,23,high,41,high,2,4,0,4,6,5,6,5,7,5,4,5,6,4,6.25,4.5,5.0,False
+549,14,4,5.27,10s,83.0,1.0,1.0,weather forecast,2,2,0.0,weather page prague option search weather forecast location,8,med,17,med,1,2,0,2,6,4,6,4,6,4,4,4,6,3,6.0,3.75,4.0,False
+550,14,5,7.5,10s,85.0,1.0,1.0,food,1,2,0.0,website food option including cat dog bird top offer pick delivery large font,13,high,24,high,1,2,0,2,3,3,4,3,4,2,2,3,3,2,3.5,2.25,3.0,False
+551,14,6,8.0,10s,107.0,1.0,1.0,news blog tech product service,5,8,0.0,busy page lot text story item link particularly stood focus,10,med,32,high,1,1,1,2,2,2,2,4,2,1,1,3,2,2,2.0,2.0,2.5,False
+552,15,1,0.22,10s,195.0,1.0,1.0,clothes woman kid,3,6,0.0,simple store website logo top left navigation bar search box basket icon background white page banner photo page split column requiring woman kid clothing link,25,high,59,high,3,5,1,6,6,5,6,5,6,4,4,5,6,4,6.0,4.25,5.0,False
+553,15,2,2.0,10s,207.0,1.0,1.0,eye glass contact lens,4,5,0.0,simple page white background navigation bar top page banner photo column split featuring sport glass sunglases contact lens link,19,high,41,high,2,3,1,4,6,5,6,5,6,4,4,4,6,4,6.0,4.25,4.5,False
+554,15,3,2.97,10s,191.0,1.0,1.0,outdors clothing equipment,3,4,0.0,simple white background page logo tab picture banner image page grid style layout column featuring section item company operating,19,high,40,high,2,4,1,5,5,5,5,5,6,5,4,5,5,5,5.25,4.75,5.0,False
+555,15,4,5.27,10s,192.0,1.0,1.0,information wheather,2,4,0.0,simple page white background search bar plugins showing day weather top corner navigation bar top page weather map hand side widget area information day day weather forecast,27,high,64,high,3,4,1,5,6,4,6,4,6,2,4,5,6,5,6.0,3.75,4.5,False
+556,15,5,7.5,10s,257.0,1.0,1.0,food item,2,4,0.0,page looked toy store page color red yellow search bar top call number navigation bar top section cube sorted simple grid style page,23,high,57,high,2,4,1,5,5,4,4,4,4,4,3,4,4,4,4.25,3.75,4.0,False
+557,15,6,8.0,10s,221.0,1.0,1.0,information tech industry,3,5,0.0,simple blog style webpage photo link article white background top black bard link clear,14,high,37,high,2,3,1,4,4,4,5,4,5,3,4,5,5,4,4.75,3.75,4.5,False
+558,16,1,0.22,10s,161.0,1.0,1.0,sustainable fashion wear,3,3,0.0,model tattoo woman boy girl wearing stripy top,8,med,15,med,0,1,0,1,6,6,5,6,4,6,6,6,6,6,5.25,6.0,6.0,False
+559,16,2,2.0,10s,234.0,1.0,1.0,eyewear sport sun glass contact lens,6,7,1.0,woman running sport sunglass happy family beach wearing sunglass woman putting contact lens felt holiday travel agency website,18,high,30,high,1,3,0,3,5,5,5,5,3,5,5,5,5,5,4.5,5.0,5.0,False
+560,16,3,2.97,10s,202.0,1.0,1.0,outdoor sport wear,3,3,0.0,hiking running hill section product buy shoe clothes big,9,med,17,med,1,3,0,3,5,6,6,6,5,5,6,6,6,6,5.5,5.75,6.0,False
+561,16,4,5.27,10s,143.0,1.0,1.0,weather forecast info,3,3,0.0,map weather icon figure country town info hand side iceberg,10,med,22,med,1,2,0,2,5,5,7,5,6,4,5,6,6,4,6.0,4.5,5.5,False
+562,16,5,7.5,10s,188.0,1.0,1.0,animal food product,3,5,1.0,clear company sold product accessory actual pet pet icon top bit misleading click,13,high,41,high,1,1,0,1,3,3,3,3,3,3,3,3,3,3,3.0,3.0,3.0,False
+563,16,6,8.0,10s,200.0,1.0,1.0,news technology,2,3,0.0,picture woman shock holding glass head felt news website,9,med,18,med,1,1,0,1,4,4,6,4,4,4,6,5,6,6,5.0,5.0,4.5,False
+564,17,1,0.22,10s,95.0,1.0,1.0,clothing woman kid,3,6,1.0,category woman child girl wearing hedgehog shirt option top different option showing basket login page audio button,17,high,51,high,3,4,0,4,7,7,6,6,5,6,6,7,7,6,6.25,6.0,7.0,False
+565,17,2,2.0,10s,100.0,1.0,1.0,eyewear including glass sunglass contact lens,6,9,0.0,homepage option glass sunglass contact picture family beach top website showed nearest store prague,14,high,37,high,3,3,0,3,7,6,7,5,6,6,5,6,6,5,6.5,5.25,6.0,False
+566,17,3,2.97,10s,91.0,1.0,1.0,sporting clothes outdoor thing,4,5,0.0,page large picture snow leapard mountain top page bar different category picture promoted sale option,15,high,37,high,2,4,0,4,5,4,5,3,6,5,4,5,6,5,5.5,4.25,4.5,False
+567,17,4,5.27,10s,90.0,1.0,1.0,weather forecasting news,3,4,0.0,page large map area showing forecast rain side link news article top banner offering different option,16,high,40,high,2,3,0,3,3,6,6,5,3,4,5,4,3,5,3.75,4.75,5.0,False
+568,17,5,7.5,10s,202.0,1.0,1.0,selling product kind pet cat reptile fish,7,17,0.0,category item top choose show relevant product featured area showed thing pickup delivery cute picture animal header,17,high,42,high,2,3,0,3,3,6,6,6,5,6,6,5,5,6,4.75,6.0,5.5,False
+569,17,6,8.0,10s,96.0,1.0,1.0,news website tech article category,5,11,0.0,featured article middle article list hand side top different bar navigating different website navigating category tech live,17,high,39,high,2,4,0,4,3,6,6,6,6,6,5,5,4,5,4.75,5.5,5.5,False
+570,18,1,0.22,10s,63.0,1.0,1.0,clothing,1,1,0.0,selection section navigating user clothing dependant gender age,8,med,13,med,0,1,0,1,7,6,7,5,7,4,4,5,7,5,7.0,4.5,5.5,False
+571,18,2,2.0,10s,88.0,1.0,1.0,glass,1,1,1.0,website selling range glass gender blue theme,7,med,11,low,0,0,1,1,6,5,6,5,7,4,3,5,7,3,6.5,3.75,5.0,False
+572,18,3,2.97,10s,72.0,1.0,1.0,outdoorsy equipment,2,2,0.0,large white cheetah imagery front page,6,med,8,low,0,1,0,1,6,6,6,5,6,5,4,5,7,5,6.25,4.75,5.5,False
+573,18,4,5.27,10s,66.0,1.0,1.0,weather forecast,2,2,1.0,large range weather forecast prague,5,low,8,low,1,1,0,1,7,6,7,6,7,4,5,6,7,6,7.0,5.25,6.0,False
+574,18,5,7.5,10s,82.0,1.0,1.0,animal food product,3,4,1.0,large banner click collect minute range animal toy bottom page,10,med,20,med,1,2,0,2,5,6,7,6,7,4,5,6,7,6,6.5,5.25,6.0,False
+575,18,6,8.0,10s,78.0,1.0,0.5,news article,2,2,0.0,large selection news article,4,low,6,low,0,0,0,0,7,2,4,2,5,3,2,4,2,2,4.5,2.25,3.0,False
+576,19,1,0.22,10s,132.0,1.0,1.0,clothing sustainable,2,4,1.0,woman child wearing night clothes featuring hedgehog clothing lemon stripe,10,med,19,med,1,1,0,1,5,5,6,5,4,5,5,5,6,4,5.25,4.75,5.0,False
+577,19,2,2.0,10s,85.0,0.0,1.0,glass,1,1,1.0,sunny beach scene glass sunglass,5,low,8,low,1,2,0,2,5,5,5,4,5,4,4,5,5,4,5.0,4.0,5.0,False
+578,19,3,2.97,10s,113.0,1.0,1.0,outdoor sport clothing,3,3,0.0,leopard hiking outdoor wear category product,6,med,11,low,1,3,0,3,5,5,5,4,4,4,5,5,5,4,4.75,4.25,5.0,False
+579,19,4,5.27,10s,87.0,0.0,1.0,weather report,2,2,0.0,different weather map report ice,5,low,6,low,1,2,0,2,3,4,4,4,4,4,4,3,3,4,3.5,4.0,3.5,False
+580,19,5,7.5,10s,94.0,1.0,1.0,supply,1,2,0.0,item available pet child holding box parrot,7,med,12,med,1,3,0,3,2,4,4,4,4,3,5,3,2,4,3.0,4.0,3.5,False
+581,19,6,8.0,10s,72.0,1.0,1.0,tech news,2,2,0.0,news page tech related issue,5,low,6,low,0,0,0,0,2,3,3,4,4,4,4,3,3,3,3.0,3.75,3.0,False
+582,21,1,0.22,10s,124.0,1.0,1.0,sustainable clothing,2,2,0.0,simplified layout navigation banner top homepage area website navigational content category displayed bottom homepage,14,high,26,high,1,2,1,3,6,4,4,4,5,4,4,5,5,3,5.0,3.75,4.5,False
+583,21,2,2.0,10s,119.0,1.0,1.0,service vaccination product sunglass,4,8,1.0,webpage simple layout heading vaccination sunglass product service,8,med,18,med,1,2,1,3,6,4,4,4,5,2,4,5,6,2,5.25,3.0,4.5,False
+584,21,3,2.97,10s,227.0,1.0,1.0,sportwear equipment,2,3,0.0,image mountain leopard displayed homepage hill sport website business information displayed horizontally bar top webpage horizontal navigational bar area website marketing communication containing image mountain leopard specific product range promoted,30,high,63,high,3,4,0,4,5,5,6,5,5,5,5,5,5,5,5.25,5.0,5.0,False
+585,21,4,5.27,10s,117.0,1.0,1.0,service weather report regionally locally,5,7,0.0,regional weather report information temperature banned hand side webpage containing information,11,med,23,med,2,2,0,2,5,5,5,5,6,4,4,5,5,5,5.25,4.5,5.0,False
+586,21,5,7.5,10s,147.0,1.0,0.5,sell animal ownership,3,5,0.5,information category animal available ownership cat dog aquaculture,8,med,16,med,0,1,0,1,5,5,5,4,5,3,4,5,5,5,5.0,4.0,5.0,False
+587,21,6,8.0,10s,224.0,1.0,1.0,service information article latest happening technology sector,7,12,0.0,lot article technology content clustered layout webpage structure made bit complicated,11,med,20,med,1,1,1,2,3,4,4,4,5,4,3,5,5,4,4.25,3.75,4.5,False
+588,22,1,0.22,10s,66.0,1.0,1.0,clothing company,2,2,0.0,category clothing sell kid adult collection plain simple colour,9,med,17,med,1,1,2,3,5,5,6,6,5,6,6,5,6,4,5.5,5.5,5.0,False
+589,22,2,2.0,10s,59.0,1.0,1.0,eyewar sunglass,2,3,1.0,category eyewear company offer picture family vacation offering summer range,10,med,15,med,1,2,0,2,5,5,4,3,4,3,4,4,3,3,4.0,3.25,4.5,True
+590,22,3,2.97,10s,346.0,1.0,1.0,sell sport hiking walking camping equipment wa clear,8,17,0.0,picture big mountain shop category page,6,med,20,med,1,3,0,3,5,5,4,4,5,4,3,3,3,4,4.25,3.75,4.0,False
+591,22,4,5.27,10s,89.0,1.0,1.0,weather forecast website,3,3,1.0,page shown describing weather prague thursday search bar different location remember,11,med,29,high,2,3,0,3,6,5,6,4,5,4,3,6,4,3,5.25,3.5,5.5,False
+592,22,5,7.5,10s,104.0,1.0,1.0,store sell food toy pet,5,17,0.0,different prodcuts shop selling different animal category available service collection symbol shopping basket shopping online,15,high,29,high,2,4,0,4,5,5,5,4,5,4,5,6,4,5,4.75,4.5,5.5,False
+593,22,6,8.0,10s,111.0,1.0,0.5,news website,2,9,0.0,lot article recall article cancer patient looked cluttered hard focus detail text place,13,high,32,high,1,1,0,1,3,3,4,4,5,3,3,3,2,2,3.5,3.0,3.0,False
+594,23,1,0.22,10s,136.0,1.0,1.0,clothes,1,1,1.0,clothing website pastel colour sold clothes woman kid basic,9,med,14,med,1,1,1,2,7,4,6,3,6,2,2,3,7,2,6.5,2.25,3.5,False
+595,23,2,2.0,10s,144.0,1.0,1.0,sport glass eye ware contact,5,6,1.0,website selling range eyecare solution typical horizontal menu option tile category neutral colour eye,14,high,27,high,1,2,1,3,5,6,6,6,6,6,5,7,6,5,5.75,5.5,6.5,False
+596,23,3,2.97,10s,140.0,1.0,1.0,sport ware focus running,4,5,0.0,sport website info tab top option catagories tile sport shoe backpack,11,med,17,med,1,2,0,2,6,5,5,4,6,3,3,4,6,4,5.75,3.5,4.5,False
+597,23,4,5.27,10s,94.0,1.0,1.0,weather forecast,2,2,1.0,fairly standard weather forecasting website lot blue colour option view raining,11,med,15,med,1,1,1,2,3,5,6,5,6,5,5,5,6,5,5.25,5.0,5.0,False
+598,23,5,7.5,10s,143.0,1.0,1.0,shop selling animal product,4,5,1.0,website selling product horizontal menu select product special offer product basic,11,med,20,med,1,2,1,3,5,4,5,3,6,3,2,4,6,3,5.5,2.75,4.0,False
+599,23,6,8.0,10s,100.0,1.0,0.5,news website,2,2,0.0,wordy lot option menu read article,6,med,10,low,1,1,1,2,1,2,2,4,2,3,2,2,2,1,1.75,2.5,2.0,False
+600,24,1,0.22,10s,173.0,1.0,1.0,sustainable clothing,2,2,0.0,page promoting fact sustainable bottom clear section woman child range picture top menu top advertise free shipping pastel colour theme,20,high,44,high,3,4,1,5,6,6,6,5,4,6,5,6,6,4,5.5,5.0,6.0,False
+601,24,2,2.0,10s,226.0,1.0,1.0,sport glass sunglass contact lens,5,6,0.0,home page site picture wearing glass sell including sportsman family different section sport glass sunglass contact lens find company top menu theme white blue,24,high,47,high,3,3,1,4,5,4,6,5,5,5,4,5,6,4,5.5,4.5,4.5,False
+602,24,3,2.97,10s,329.0,0.0,0.0,recall,1,2,0.0,big cheetah leopard photo black white minimalistic page,8,med,18,med,1,1,1,2,6,6,5,6,3,6,5,5,5,5,4.75,5.5,5.5,False
+603,24,4,5.27,10s,110.0,1.0,1.0,weather forecast,2,2,0.0,big map middle showing weather forecast prague advanced option top article hand side,13,high,25,high,1,3,0,3,4,4,5,4,6,4,4,5,5,3,5.0,3.75,4.5,False
+604,24,5,7.5,10s,133.0,0.0,1.0,animal food supply,3,4,0.0,lot bottom suggested product buy promise minute pickup time photo animal yellowish theme,13,high,33,high,2,3,1,4,2,2,3,3,4,3,3,3,3,4,3.0,3.25,2.5,False
+605,24,6,8.0,10s,282.0,0.0,0.5,news,1,1,0.0,news article photo illustration middle live coverage left read news crammed opinion,12,med,26,high,2,3,1,4,2,2,3,4,3,3,3,2,3,2,2.75,3.0,2.0,False
+606,25,1,0.22,10s,153.0,1.0,1.0,sell sustainable fashion item,4,5,0.0,page standard layout space block sparse place woman child demonstrating especially family,12,med,33,high,1,1,2,3,4,3,5,5,5,4,3,4,5,3,4.75,3.75,3.5,False
+607,25,2,2.0,10s,132.0,1.0,1.0,sell glass sunglass contact,4,6,1.0,holiday image top family pic underneath funnel demonstrating different type product heart logo,13,high,32,high,2,3,0,3,5,5,6,5,6,5,5,5,5,5,5.5,5.0,5.0,False
+608,25,3,2.97,10s,180.0,1.0,1.0,outdoor product,2,2,1.0,large snow leopard middle couple climbing mountain top picture advertising called dynafit click category bottom,15,high,37,high,2,4,0,4,5,6,6,6,6,6,6,6,6,6,5.75,6.0,6.0,False
+609,25,4,5.27,10s,152.0,1.0,1.0,info weather,2,5,0.0,lot weather pic blue yellow colour match weather symbol show day week bottom,13,high,28,high,1,1,1,2,4,5,7,5,6,5,4,5,5,5,5.5,4.75,5.0,False
+610,25,5,7.5,10s,134.0,1.0,1.0,product,1,4,1.0,busy site different pet top product underneath alot colour logo,10,med,25,high,1,2,2,4,2,2,3,2,3,2,4,3,2,4,2.5,3.0,2.5,False
+611,25,6,8.0,10s,145.0,1.0,1.0,updating tech news,3,10,0.0,busy page ecommerce purpose info website story choose form including news section,12,med,35,high,1,1,1,2,2,2,6,4,5,4,4,5,2,4,3.75,4.0,3.5,False
+612,27,1,0.22,10s,104.0,1.0,0.0,pajama,1,1,0.0,selling pajama family woman child,5,low,12,med,0,1,0,1,5,4,5,5,5,4,4,5,5,4,5.0,4.25,4.5,False
+613,27,2,2.0,10s,91.0,1.0,1.0,sunglass,1,1,1.0,selling sunglass especially holiday,4,low,7,low,0,0,0,0,6,6,6,6,6,6,5,6,6,4,6.0,5.25,6.0,False
+614,27,3,2.97,10s,127.0,0.5,1.0,clothes hiking touring,3,5,0.0,selling clothes hiking boot warm jacket clothing touring wildness,9,med,21,med,1,1,0,1,6,6,6,6,6,5,5,6,5,4,5.75,5.0,6.0,False
+615,27,4,5.27,10s,97.0,1.0,1.0,weather forecast,2,2,1.0,show weather forecast showing detail weather,6,med,12,med,0,1,0,1,3,4,3,3,3,4,4,4,3,3,3.0,3.5,4.0,False
+616,27,5,7.5,10s,94.0,1.0,1.0,stuff pet,2,3,1.0,selling product food shelter toy,5,low,12,med,0,0,0,0,5,5,5,4,5,3,4,4,4,4,4.75,3.75,4.5,False
+617,27,6,8.0,10s,107.0,1.0,1.0,tech info,2,2,0.0,tech news world article currency,5,low,14,med,1,1,0,1,3,4,3,3,3,4,3,3,3,3,3.0,3.25,3.5,False
+618,28,1,0.22,10s,76.0,1.0,1.0,sustainable clothing woman child,4,7,0.0,scandi style clear image product offer,6,med,10,low,1,0,2,2,7,7,7,7,6,6,6,7,7,7,6.75,6.5,7.0,False
+619,28,2,2.0,10s,85.0,1.0,1.0,eyewear contact lens,3,3,0.0,showed product company sell,4,low,6,low,0,0,0,0,4,3,5,2,6,2,2,1,4,5,4.75,2.75,2.0,False
+620,28,3,2.97,10s,79.0,1.0,1.0,sport gear clothes accessory,4,4,0.0,big picture big mountain picture product,6,med,14,med,1,2,0,2,6,6,6,5,5,5,6,6,6,6,5.75,5.5,6.0,False
+621,28,4,5.27,10s,53.0,1.0,1.0,weather forecast news,3,4,0.0,weather forecast news,3,low,4,low,0,0,0,0,6,6,7,7,7,4,5,6,6,5,6.5,5.25,6.0,False
+622,28,5,7.5,10s,73.0,1.0,1.0,supply,1,2,0.0,shop sell supply food accessory pet,6,med,10,low,0,0,0,0,6,6,7,2,5,3,3,3,4,5,5.5,3.25,4.5,False
+623,28,6,8.0,10s,84.0,1.0,1.0,magazine information technology press,4,7,0.0,monochrome wordy page colour,4,low,8,low,0,0,1,1,3,2,6,4,6,3,2,3,5,2,5.0,2.75,2.5,False
+624,29,1,0.22,10s,140.0,1.0,1.0,sustainable fashion,2,2,1.0,branding line nav bar image width frame child sustainable fashion picture male female child product,15,high,29,high,2,3,0,3,7,7,7,7,7,7,6,7,7,6,7.0,6.5,7.0,False
+625,29,2,2.0,10s,188.0,1.0,1.0,glass,1,1,0.0,branding top search nav bar image family group beach wearing sun glass option different glass,15,high,28,high,2,4,0,4,5,6,7,6,6,7,5,7,7,5,6.25,5.75,6.5,False
+626,29,3,2.97,10s,216.0,1.0,1.0,sport wear backpack shoe winter stuff,6,6,1.0,branding top search bar nav bar list item body advert line clothes product listed,14,high,24,high,1,4,0,4,5,6,6,6,5,6,5,6,6,6,5.5,5.75,6.0,False
+627,29,4,5.27,10s,168.0,1.0,1.0,weather forecast,2,2,1.0,branding top search nav bar option weather map shown location thursday,11,med,19,med,1,3,0,3,3,3,4,3,4,3,3,5,5,2,4.0,2.75,4.0,False
+628,29,5,7.5,10s,158.0,1.0,1.0,animal product,2,2,0.0,animal product website search bar top nav bar branding listing different animal larger image selection product,16,high,26,high,2,4,0,4,5,5,5,4,5,4,3,5,5,4,5.0,3.75,5.0,False
+629,29,6,8.0,10s,120.0,1.0,0.5,news,1,1,0.0,branding line nav bar column page image middle word heavy,10,med,20,med,1,2,1,3,2,2,4,4,3,2,2,3,1,1,2.5,2.25,2.5,False
+630,30,1,0.22,10s,72.0,1.0,1.0,clothing,1,1,1.0,clothes adult kid summery colour,5,low,7,low,0,0,1,1,6,6,6,6,5,5,5,6,7,5,6.0,5.25,6.0,True
+631,30,2,2.0,10s,93.0,1.0,1.0,conatct lens,2,2,1.0,asked ready vacation initially hiolidays caption undereath different contact lens,10,med,20,med,1,2,0,2,3,3,4,4,3,4,5,3,2,4,3.0,4.25,3.0,False
+632,30,3,2.97,10s,85.0,1.0,1.0,outdoor gear,2,2,0.0,picture cheetah show product offered running gear,7,med,11,low,1,2,0,2,4,5,5,4,4,5,5,5,6,5,4.75,4.75,5.0,False
+633,30,4,5.27,10s,88.0,1.0,1.0,weather news,2,2,0.0,weather prague report snow,4,low,6,low,1,2,0,2,4,5,6,5,5,4,4,5,5,5,5.0,4.5,5.0,False
+634,30,5,7.5,10s,118.0,1.0,1.0,animal product,2,2,1.0,colour yellow approx product advertised including water bowl rodent wooden house click collect second,14,high,20,med,2,2,1,3,6,4,6,4,5,4,3,4,5,3,5.5,3.5,4.0,False
+635,30,6,8.0,10s,97.0,1.0,1.0,technology news,2,2,0.0,lot news tech stuff information read,6,med,11,low,0,0,0,0,1,1,1,4,2,4,4,2,1,1,1.25,3.25,1.5,False
+636,31,1,0.22,10s,149.0,1.0,1.0,clothing woman child,3,6,0.0,webshop men woman childrens clothing structured light blue colour shop offer free delivery specific date,15,high,26,high,3,2,2,4,7,5,7,5,6,3,3,4,7,3,6.75,3.5,4.5,False
+637,31,2,2.0,10s,145.0,1.0,1.0,eye protection form glass lens,5,9,1.0,website provider eye protection glass lens explains product work contains link physical shop,13,high,29,high,1,1,0,1,7,6,6,3,7,5,2,4,6,3,6.5,3.25,5.0,False
+638,31,3,2.97,10s,142.0,1.0,1.0,active wear focusing hillwalking,4,7,1.0,website webshop hillwalking attire big picture snow leopard set tone type product company intends sell clothing category grouped general heading website,21,high,43,high,1,2,0,2,6,7,7,7,6,6,6,7,6,6,6.25,6.25,7.0,False
+639,31,4,5.27,10s,108.0,1.0,1.0,weather forecast czech republic prague specifically,6,11,1.0,website show weather map predicts rain focus specifically weather prague,10,med,19,med,1,2,0,2,7,4,6,3,7,3,3,4,5,4,6.25,3.25,4.0,False
+640,31,5,7.5,10s,149.0,1.0,1.0,product variety pet,3,7,0.0,website caters variety pet webshop offer food accessory product picked physical store quickly minute,14,high,32,high,1,2,0,2,7,3,6,1,7,1,1,3,6,2,6.5,1.25,3.0,False
+641,31,6,8.0,10s,141.0,1.0,1.0,news technology sector,3,5,0.0,webpage focus news technology world contains numerous article heading assume clicked access content picture suggest article,16,high,39,high,1,2,0,2,1,2,3,4,3,3,2,2,2,3,2.25,3.0,2.0,False
+642,32,1,0.22,10s,61.0,1.0,1.0,clothing,1,1,0.0,woman kid clothing colourful,4,low,5,low,0,1,1,2,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+643,32,2,2.0,10s,74.0,1.0,1.0,sunglass glass contact lens,4,4,1.0,website selling eyecare,3,low,4,low,0,0,0,0,4,4,6,5,4,4,4,4,4,4,4.5,4.25,4.0,False
+644,32,3,2.97,10s,83.0,1.0,1.0,outdoor clothing shoe,3,3,1.0,website selling outdoor clothes shoe,5,low,5,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+645,32,4,5.27,10s,88.0,1.0,1.0,weather forecast,2,3,0.0,weather forecast news,3,low,5,low,0,1,0,1,4,4,6,4,4,4,4,5,4,4,4.5,4.0,4.5,False
+646,32,5,7.5,10s,86.0,1.0,1.0,food,1,2,0.0,website sell food,3,low,5,low,0,0,0,0,5,4,5,4,4,4,4,4,4,4,4.5,4.0,4.0,False
+647,32,6,8.0,10s,66.0,1.0,0.5,news publication,2,2,0.0,news publication tech,3,low,4,low,0,0,0,0,4,4,5,4,4,4,4,5,4,4,4.25,4.0,4.5,False
+648,33,1,0.22,10s,134.0,1.0,1.0,clothing,1,1,1.0,girl wearing yellow tee woman wearing yellow dress grey background image image included,13,high,21,med,1,3,1,4,6,6,6,5,5,5,3,6,6,5,5.75,4.5,6.0,False
+649,33,2,2.0,10s,179.0,1.0,1.0,clear contact lens,3,4,0.0,basic clear selling contact lens glass recall,7,med,13,med,0,1,1,2,3,3,4,3,5,3,3,4,2,2,3.5,2.75,3.5,False
+650,33,3,2.97,10s,238.0,1.0,1.0,sportswear,1,1,0.0,leopard block image,3,low,5,low,0,2,0,2,5,5,5,5,5,6,3,5,6,4,5.25,4.5,5.0,False
+651,33,4,5.27,10s,141.0,1.0,1.0,weather forecast,2,3,1.0,general weather site blue couple different weather widget,8,med,12,med,0,1,1,2,4,3,6,4,6,3,2,4,6,3,5.5,3.0,3.5,False
+652,33,5,7.5,10s,155.0,1.0,1.0,animal supply,2,2,0.0,bold colour image animal product different type animal list,9,med,12,med,1,2,1,3,5,3,5,2,6,2,3,4,5,4,5.25,2.75,3.5,False
+653,33,6,8.0,10s,185.0,1.0,1.0,tech information,2,2,0.0,tech info long list left hand side news story tech,10,med,16,med,1,2,0,2,3,3,4,3,6,4,2,4,3,2,4.0,2.75,3.5,False
+654,34,1,0.22,10s,80.0,1.0,1.0,sustainable clothes age,3,5,0.0,,0,low,0,low,0,0,0,0,7,5,5,6,6,4,4,5,5,5,5.75,4.75,5.0,False
+655,34,2,2.0,10s,89.0,1.0,1.0,sell glass sunglass contact lens,5,6,0.0,family lying beach image woman putting contact eye,8,med,20,med,1,2,0,2,6,3,6,3,5,3,3,3,7,2,6.0,2.75,3.0,False
+656,34,3,2.97,10s,78.0,0.5,1.0,sport clothing footwear,3,4,0.0,picture person hiking leopard,4,low,9,low,0,2,0,2,4,4,6,6,4,4,4,4,4,4,4.5,4.5,4.0,False
+657,34,4,5.27,10s,91.0,1.0,1.0,weather forecast page,3,5,0.0,different forecast set prague weather load different cloud forecast,9,med,20,med,1,2,0,2,4,4,7,3,6,4,4,4,4,4,5.25,3.75,4.0,False
+658,34,5,7.5,10s,214.0,0.0,1.0,food,1,2,1.0,,0,low,0,low,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+659,34,6,8.0,10s,175.0,1.0,0.5,technology,1,1,0.0,,0,low,0,low,0,0,0,0,2,6,5,5,5,3,2,3,3,3,3.75,3.25,4.5,False
+660,36,1,0.22,10s,123.0,1.0,1.0,clothing woman child,3,6,0.0,large picture girl summer clothes smaller picture woman boy,9,med,16,med,1,2,0,2,5,5,6,4,5,4,3,4,7,3,5.75,3.5,4.5,False
+661,36,2,2.0,10s,136.0,1.0,1.0,glass,1,1,1.0,picture family sunglass wear clear glass larger panel advertising glass sunglass contact lens,13,high,17,med,1,2,0,2,6,6,6,5,6,4,4,4,5,4,5.75,4.25,5.0,False
+662,36,3,2.97,10s,156.0,1.0,1.0,shoe clothes outdoor wear,4,6,0.0,big picture small title shoe coat,6,med,14,med,0,1,0,1,6,7,5,6,6,5,6,6,6,6,5.75,5.75,6.5,False
+663,36,4,5.27,10s,145.0,1.0,1.0,weather forecast perticularly rain,4,5,0.0,map checkia rain symbol rain prediction day prague,8,med,19,med,1,3,0,3,4,4,5,4,4,4,5,5,6,5,4.75,4.5,4.5,False
+664,36,5,7.5,10s,103.0,1.0,0.0,clear,1,2,0.0,cluttered smal picture product connection,5,low,12,med,0,1,0,1,2,2,2,3,2,2,2,2,1,4,1.75,2.75,2.0,False
+665,36,6,8.0,10s,112.0,1.0,0.0,battery,1,1,0.0,picture product middle news item headline side display,8,med,17,med,0,1,0,1,3,3,4,2,4,3,2,3,3,2,3.5,2.25,3.0,False
+666,37,1,0.22,10s,202.0,1.0,1.0,sustainable fashion picture sleepwear loungewear,5,13,0.0,showed image adult child wearing pastel neutral coloured pjs lounge wear heart featured clothes,14,high,23,med,1,1,0,1,4,4,4,3,4,3,3,5,4,2,4.0,2.75,4.5,False
+667,37,2,2.0,10s,146.0,1.0,1.0,sunglass sort astronomy gear,4,7,0.0,picture family wearing sunglass top left hand side list category goo listed top page summery vibe page sunglass,18,high,31,high,1,2,1,3,4,5,5,5,5,4,4,5,4,4,4.5,4.25,5.0,False
+668,37,3,2.97,10s,138.0,1.0,1.0,outdoor activity good,3,3,1.0,picture leopard prominent feature page list sporting activity catered listed top page,12,med,22,med,1,2,0,2,5,5,5,5,6,5,6,6,6,5,5.5,5.25,5.5,False
+669,37,4,5.27,10s,113.0,1.0,1.0,weather forecast,2,2,0.0,picture weather map major portion page,6,med,12,med,1,1,0,1,4,4,5,4,5,4,4,5,5,4,4.75,4.0,4.5,False
+670,37,5,7.5,10s,126.0,1.0,1.0,supply,1,2,0.0,company small logo top left hand side listed category catered,10,med,17,med,1,2,0,2,6,5,7,5,6,5,5,6,7,5,6.5,5.0,5.5,False
+671,37,6,8.0,10s,138.0,0.0,0.5,news,1,1,0.0,remember news headline,3,low,8,low,0,0,0,0,3,3,4,3,3,4,3,3,3,3,3.25,3.25,3.0,False
+672,38,1,0.22,10s,163.0,1.0,1.0,clothes,1,1,0.0,box mainfram product woman child free shipping top small writing logo small round blue circle,15,high,26,high,2,3,0,3,6,3,4,2,4,1,3,4,4,2,4.5,2.0,3.5,False
+673,38,2,2.0,10s,155.0,1.0,1.0,sunglass contact lens,3,4,0.0,page blue colour scheme box bottom sunglasses contact lens family picture beach middle menu top,15,high,32,high,2,3,1,4,4,4,5,4,3,4,5,5,7,5,4.75,4.5,4.5,False
+674,38,3,2.97,10s,159.0,1.0,1.0,outdoor sport gear,3,3,1.0,outdoor gear big cheetah leopard walking hill,7,med,11,low,0,2,0,2,4,4,4,4,4,7,6,5,5,5,4.25,5.5,4.5,False
+675,38,4,5.27,10s,165.0,1.0,1.0,weather information,2,2,0.0,map different temperatrues side speed wind different day website written blue pragua top hand corner,15,high,33,high,2,4,0,4,5,4,4,4,3,2,2,3,4,2,4.0,2.5,3.5,False
+676,38,5,7.5,10s,114.0,1.0,1.0,food,1,2,1.0,product available site search bar,5,low,9,low,0,1,0,1,6,2,4,3,4,3,3,4,4,2,4.5,2.75,3.0,False
+677,38,6,8.0,10s,104.0,1.0,1.0,information tech,2,3,0.0,big block text,3,low,7,low,0,1,0,1,1,1,3,4,6,4,1,2,1,1,2.75,2.5,1.5,False
+678,39,1,0.22,10s,126.0,1.0,1.0,clothing,1,1,0.0,clean page detail company top large picture middle featuring childrens promotion smaller picture woman childrens clothing,16,high,32,high,2,3,1,4,6,6,6,6,6,6,5,7,7,5,6.25,5.5,6.5,False
+679,39,2,2.0,10s,126.0,1.0,1.0,glass sunglass,2,3,0.0,bright clean feel company information top clear menu choice page major picture leading detail sunglass glass,16,high,23,med,2,3,1,4,6,7,6,7,5,7,6,6,6,6,5.75,6.5,6.5,False
+680,39,3,2.97,10s,143.0,1.0,1.0,outdoor clothing supply,3,4,0.0,company information top central picture runner jogging hill snow leopard foreground clear picture button bottom leading area website,18,high,33,high,2,4,0,4,6,7,6,6,5,7,6,6,6,6,5.75,6.25,6.5,False
+681,39,4,5.27,10s,118.0,1.0,1.0,detailed weather information,3,3,0.0,weather page central map area showing current weather condition diagrammatically detailed information box giving temperature forecast weather information,18,high,30,high,1,2,0,2,3,4,5,5,4,5,5,5,5,5,4.25,5.0,4.5,False
+682,39,5,7.5,10s,133.0,1.0,1.0,food supply,2,4,0.0,detail company top breakdown type promo offer example specific product,10,med,25,high,1,2,0,2,5,5,6,4,5,4,3,5,6,5,5.5,4.0,5.0,False
+683,39,6,8.0,10s,140.0,0.5,0.0,selling instead information environmental issue,5,15,0.5,title company detail bar left looked timed news item central picture headline looked lead detailed report,16,high,32,high,2,3,0,3,3,4,4,5,5,5,3,4,5,5,4.25,4.5,4.0,False
+684,40,1,0.22,10s,182.0,1.0,1.0,men woman childrens clothes,4,4,0.0,shipping info logo banner menu item column picture text men clothing lady clothing kid clothing,15,high,18,med,1,3,0,3,7,7,7,7,7,6,5,6,7,5,7.0,5.75,6.5,False
+685,40,2,2.0,10s,166.0,1.0,1.0,glass lens eye,3,4,1.0,logo info menu item banner picture block glass lens eye wash,11,med,11,low,1,3,0,3,6,6,6,5,5,5,5,6,6,5,5.75,5.0,6.0,False
+686,40,3,2.97,10s,236.0,0.0,1.0,clothes footwear bag walking related,5,5,0.0,info item top logo banner picuture white tiger mountain hegagon writing item picture block clothes footwear bag,17,high,24,high,2,5,0,5,5,6,6,6,5,5,5,5,6,5,5.5,5.25,5.5,False
+687,40,4,5.27,10s,181.0,1.0,1.0,weather forecast,2,2,1.0,logo banner day information map weather icon orange box umbrella forecast box future day information,15,high,21,med,2,4,0,4,6,6,6,5,6,5,5,6,6,5,6.0,5.0,6.0,False
+688,40,5,7.5,10s,226.0,0.5,1.0,varoety thing pet,3,6,0.0,logo menu item animal picture banner promotion item,8,med,12,med,1,3,0,3,2,3,2,4,3,2,2,3,3,4,2.5,3.0,3.0,False
+689,40,6,8.0,10s,208.0,1.0,0.0,,0,3,0.0,news paper style website info banner black lot item category table content left column middle column picture text column primarily text,21,high,29,high,2,4,0,4,1,1,1,2,1,1,1,1,1,1,1.0,1.25,1.0,False
+690,41,1,0.22,10s,432.0,1.0,1.0,clothing,1,1,1.0,image large subsection woman child bottom,6,med,14,med,1,2,0,2,6,3,4,4,6,3,5,3,4,2,5.0,3.5,3.0,False
+691,41,2,2.0,10s,148.0,1.0,1.0,glass contact lens,3,3,0.0,child beach product section running glass glass contact,8,med,12,med,1,3,0,3,4,3,4,3,6,5,3,4,5,3,4.75,3.5,3.5,False
+692,41,3,2.97,10s,1655.0,1.0,1.0,hiking gear footwear outdoorwear,4,5,0.0,looked related hiking winter made gear white different product footwear displayed bottom,12,med,28,high,1,2,0,2,6,6,5,7,4,7,4,4,6,4,5.25,5.5,5.0,False
+693,41,4,5.27,10s,111.0,1.0,1.0,weather forecast,2,2,0.0,map standard weather forecast simple weather day,7,med,14,med,1,2,0,2,5,3,6,3,1,3,3,4,4,1,4.0,2.5,3.5,False
+694,41,5,7.5,10s,578.0,0.0,1.0,sell food lead,3,7,1.0,professional load photo easy,4,low,9,low,0,0,1,1,7,3,4,2,6,1,2,2,4,4,5.25,2.25,2.5,False
+695,41,6,8.0,10s,143.0,0.5,0.5,news,1,1,1.0,news site easy headline left news story centre tab top topic,11,med,21,med,1,3,0,3,6,6,6,7,4,6,4,5,7,4,5.75,5.25,5.5,False
+696,42,1,0.22,10s,90.0,1.0,1.0,sustainable fashion,2,2,0.0,sustainable fashion woman child showcasing summer collection,7,med,10,low,1,2,0,2,4,4,4,4,4,4,4,5,5,4,4.25,4.0,4.5,True
+697,42,2,2.0,10s,91.0,1.0,1.0,optical glass,2,2,1.0,family beach start tour operator selling holiday,7,med,18,med,0,1,0,1,3,4,4,4,4,4,4,3,2,4,3.25,4.0,3.5,False
+698,42,3,2.97,10s,117.0,1.0,1.0,outdoor clothing specialist,3,3,0.0,clothing cater outdoors,3,low,6,low,0,0,0,0,5,4,5,4,5,4,4,4,5,4,5.0,4.0,4.0,False
+699,42,4,5.27,10s,81.0,1.0,1.0,forecasted weather prediction,3,4,0.0,page showing weather forecast,4,low,5,low,0,0,0,0,3,4,4,4,4,3,4,4,4,4,3.75,3.75,4.0,False
+700,42,5,7.5,10s,97.0,1.0,1.0,food equipment,2,4,0.0,selling sort food wide range animal,6,med,12,med,0,0,0,0,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+701,42,6,8.0,10s,110.0,1.0,1.0,info range tech area,4,10,0.0,publication index left hand column header click whichever tech area interested,11,med,25,high,1,2,0,2,4,4,4,4,4,4,4,4,4,4,4.0,4.0,4.0,False
+702,43,1,0.22,10s,124.0,1.0,1.0,clothing woman child,3,6,0.0,clear pleasant front page colour scheme pleasant pic ambiguous,9,med,17,med,1,1,2,3,7,7,7,7,5,7,6,7,7,6,6.5,6.5,7.0,False
+703,43,2,2.0,10s,159.0,1.0,1.0,vision related service,3,3,0.0,stylish eye related web page second realise actual product looked outdoor holiday website,13,high,29,high,1,0,1,1,3,6,3,6,2,6,6,5,2,6,2.5,6.0,5.5,False
+704,43,3,2.97,10s,122.0,1.0,1.0,sport attire,2,2,0.0,site outdoor attire hiking layout captivating front page professional,9,med,17,med,1,0,2,2,6,6,6,6,5,5,5,6,6,6,5.75,5.5,6.0,False
+705,43,4,5.27,10s,125.0,1.0,1.0,standard weather forecast web page,5,6,0.0,layout consumer clear precise,4,low,13,med,0,0,2,2,6,5,7,4,6,4,3,6,7,5,6.5,4.0,5.5,False
+706,43,5,7.5,10s,142.0,1.0,1.0,related equipment,2,3,1.0,busy informative page sell plethora related equipment,7,med,13,med,1,1,1,2,3,4,5,3,5,3,3,3,3,4,4.0,3.25,3.5,False
+707,43,6,8.0,10s,123.0,1.0,1.0,date tech info current affair related info,7,12,0.0,detail text heavy looked contain lot information,7,med,13,med,0,0,1,1,5,5,5,4,5,4,2,4,5,5,5.0,3.75,4.5,False
+708,44,1,0.22,10s,177.0,1.0,1.0,fashion clothing woman child,4,7,0.0,tiny font company made difficult appreciate rest advert picture woman child wearing bland clothes,14,high,33,high,2,2,0,2,4,3,4,2,6,1,1,4,5,2,4.75,1.5,3.5,False
+709,44,2,2.0,10s,127.0,1.0,1.0,glass sunglass,2,2,1.0,family posng beach sunglass happy,5,low,11,low,0,1,0,1,6,6,5,6,4,4,4,4,6,4,5.25,4.5,5.0,False
+710,44,3,2.97,10s,233.0,1.0,1.0,outdoors needed clothes footwear camping equipment rucksack,7,10,0.0,snow leopard mountain background mountaineer hill option different department featuring clothes footwear rucksack camping eqpt,15,high,37,high,2,3,0,3,4,7,7,6,5,5,5,5,6,7,5.5,5.75,6.0,False
+711,44,4,5.27,10s,133.0,1.0,1.0,weather report,2,2,0.0,weather chart symbol cloudy,4,low,6,low,1,1,0,1,5,5,5,4,4,4,5,4,3,4,4.25,4.25,4.5,False
+712,44,5,7.5,10s,165.0,1.0,1.0,petfood thing related keeping,4,8,1.0,site attractive showing doggy bag presumably full food pet option dog cat type pet click info,16,high,31,high,1,2,0,2,4,5,5,5,4,4,5,5,5,5,4.5,4.75,5.0,False
+713,44,6,8.0,10s,165.0,1.0,0.5,energy news storage battery,4,5,0.0,news energy prises different type energy storage,7,med,15,med,1,2,0,2,1,3,3,4,4,3,2,2,1,1,2.25,2.5,2.5,False
+714,45,1,0.22,10s,72.0,1.0,1.0,sustainable clothes,2,2,0.0,nice clean website picture icon pleased,6,med,12,med,0,0,1,1,7,7,7,7,2,7,7,7,7,7,5.75,7.0,7.0,False
+715,45,2,2.0,10s,99.0,1.0,1.0,eye summer holiday sport sunglases contact lens,7,11,1.0,nice picture family holiday person running person changing contact lens blue,11,med,23,med,1,2,1,3,5,4,5,3,5,3,5,5,5,4,5.0,3.75,4.5,False
+716,45,3,2.97,10s,63.0,1.0,1.0,mountain clothing footwear,3,4,0.0,design,1,low,4,low,0,0,0,0,6,7,7,7,2,6,7,7,6,6,5.25,6.5,7.0,False
+717,45,4,5.27,10s,62.0,1.0,1.0,provide information weather,3,4,0.0,easy understand navigate,3,low,5,low,0,0,0,0,6,5,5,4,6,3,2,5,6,6,5.75,3.75,5.0,False
+718,45,5,7.5,10s,70.0,1.0,0.5,sell animal related producst,4,4,0.0,color website organized,3,low,11,low,0,0,0,0,5,7,7,7,2,7,7,7,7,7,5.25,7.0,7.0,False
+719,45,6,8.0,10s,99.0,1.0,1.0,website providing news itech word,5,8,0.0,text page hard understanding website purpose,6,med,21,med,0,0,1,1,5,3,3,3,2,2,1,4,1,4,2.75,2.5,3.5,False
+720,47,1,0.22,10s,223.0,1.0,1.0,clothes,1,1,0.0,menu small logo small stand underneath full image young girl yellow tshirt underneath image make typical white family woman young boy image click box fashion woman fashion,27,high,51,high,3,4,0,4,6,5,6,4,6,4,4,4,4,3,5.5,3.75,4.5,False
+721,47,2,2.0,10s,217.0,1.0,1.0,glass contact lens eye,4,5,1.0,menu bar top underneath icare underneath image young family beach sun glass facing camera underneath box eye product contact lens,20,high,36,high,2,4,0,4,6,5,5,4,5,4,4,5,4,4,5.0,4.0,5.0,False
+722,47,3,2.97,10s,260.0,1.0,1.0,clothing,1,1,1.0,menu top page hillsport logo outline mountain underneath beautiful image snow leopard advising collection underneath box image prompt click clothes recall rest,22,high,50,high,3,5,0,5,6,6,5,6,5,6,6,6,5,6,5.25,6.0,6.0,False
+723,47,4,5.27,10s,172.0,1.0,1.0,weather forecast,2,2,1.0,blue menu banner top underneath page left hand side map forecast different area thursday hand side menu weather item,19,high,37,high,3,4,0,4,4,4,5,4,5,4,5,4,5,4,4.75,4.25,4.0,False
+724,47,5,7.5,10s,229.0,1.0,1.0,food animal,2,3,1.0,bold menu search engine banner page underneath bold yellow background red circle delivery minute image imagine delivery box underneath example animal food remember reptile food,25,high,62,high,3,4,0,4,5,5,4,4,5,4,4,4,5,3,4.75,3.75,4.5,False
+725,47,6,8.0,10s,180.0,1.0,1.0,news tech item,3,4,0.0,left menu tech news report middle banner image headed word battery underneath image smaller image couple row item hand side menu read news article,24,high,50,high,3,4,0,4,4,3,5,4,6,4,3,4,5,2,5.0,3.25,3.5,False
