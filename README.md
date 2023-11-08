@@ -16,7 +16,7 @@ This is the official repository for the research paper *"Cognitive abilities and
 
 
 ## Paper citation
----
+```bibtex
 @article{doi:10.1080/0144929X.2023.2272747,
   author = {Eduard Kuric, Peter Demcak, Matus Krajcovic and Giang Nguyen},
   title = {Cognitive abilities and visual complexity impact first impressions in five-second testing},
@@ -30,7 +30,7 @@ This is the official repository for the research paper *"Cognitive abilities and
   URL = {https://doi.org/10.1080/0144929X.2023.2272747},
   eprint = {https://doi.org/10.1080/0144929X.2023.2272747}
 }
----
+```
 
 [Published in the journal Behaviour & Information Technology - Open Access](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2272747?src=)
 
