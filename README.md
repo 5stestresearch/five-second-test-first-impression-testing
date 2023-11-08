@@ -16,6 +16,8 @@ This is the official repository for the research paper *"Cognitive abilities and
 
 
 ## Paper citation
+[Published in the journal Behaviour & Information Technology - Open Access](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2272747?src=)
+ 
 ```bibtex
 @article{doi:10.1080/0144929X.2023.2272747,
   author = {Eduard Kuric, Peter Demcak, Matus Krajcovic and Giang Nguyen},
@@ -31,8 +33,6 @@ This is the official repository for the research paper *"Cognitive abilities and
   eprint = {https://doi.org/10.1080/0144929X.2023.2272747}
 }
 ```
-
-[Published in the journal Behaviour & Information Technology - Open Access](https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2272747?src=)
 
 ## Dataset
 In our case study, we have collected first impression testing data from participants - responses from initial and final study questionnaires, responses to follow up questions and results from cognitive ability tests. [Raw data from the UXtweak Five Second Test tool](./analysis/data/raw_data) was exported and further processed (cleaning of irrelevant data, calculation of metrics and aggregations).
